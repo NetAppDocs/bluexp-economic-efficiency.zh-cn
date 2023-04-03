@@ -29,8 +29,8 @@ summary: 经济效率服务根据预测的数据增长提供建议。您可以�
 . 选择*分层冷数据*。
 . 接下来的步骤取决于您是否已部署BlueXP Connector且已发现集群：
 +
-** 如果您需要部署BlueXP Connector、请参阅所述的BlueXP文档 https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["如何创建连接器"]。否则、如果您已部署Connector、则不会显示用于部署此连接器的选项。
-** 如果服务需要发现集群、请参见 https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-discovering-ontap.html["发现内部ONTAP 集群"]。否则、如果已发现集群、则不会显示用于发现集群的选项。
+** 如果您需要部署BlueXP Connector、请参阅所述的BlueXP文档 https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["如何创建连接器"^]。否则、如果您已部署Connector、则不会显示用于部署此连接器的选项。
+** 如果服务需要发现集群、请参见 https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-discovering-ontap.html["发现内部ONTAP 集群"^]。否则、如果已发现集群、则不会显示用于发现集群的选项。
 
 
 +
