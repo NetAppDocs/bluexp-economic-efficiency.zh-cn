@@ -29,7 +29,7 @@ summary: 要使用经济高效服务、请执行几个步骤进行设置。
 
 BlueXP连接器包含NetApp ONTAP Machine的凭据。
 
-要在使用此服务之前在BlueXP中创建Connector、请参阅所述的BlueXP文档 https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["如何创建连接器"^]。
+要在使用此服务之前在BlueXP中创建Connector、请参阅所述的BlueXP文档 https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["如何创建连接器"]。
 
 
 
@@ -37,4 +37,4 @@ BlueXP连接器包含NetApp ONTAP Machine的凭据。
 
 在设置过程中、需要在BlueXP中识别集群名称、IP、用户名和密码。
 
-有关使用此服务之前的说明、请参见 https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-discovering-ontap.html["发现内部ONTAP 集群"^]。
+有关使用此服务之前的说明、请参见 https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-discovering-ontap.html["发现内部ONTAP 集群"]。
