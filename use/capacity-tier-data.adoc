@@ -1,0 +1,49 @@
+---
+sidebar: sidebar 
+permalink: use/capacity-tier-data.html 
+keywords: economic efficiency remediate, economic efficiency, capacity planning, add capacity 
+summary: 经济效率服务根据预测的数据增长提供建议。您可以接受预测或输入自己的预测。在此基础上、该服务会提供一些建议、以满足预计的容量增长需求、并最适合资产配置。其中一项建议可能是将冷数据分层到云存储以释放容量。此建议将启动与另一个BlueXP服务NetApp Cloud Tiering的连接。 
+---
+= 将冷数据分层到云存储并释放存储空间
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+经济效率服务根据预测的数据增长提供建议。您可以接受预测或输入自己的预测。在此基础上、该服务会提供一些建议、以满足预计的容量增长需求、并最适合资产配置。其中一项建议可能是将冷数据分层到云存储以释放容量。此建议将启动与另一个BlueXP服务NetApp Cloud Tiering的连接。
+
+在此基础上、您可以对数据进行分层、并轻松返回到经济效率服务、以便对其他系统采取措施。
+
+云分层流程包括以下流程：
+
+* 部署连接器
+* 发现集群
+* 设置云分层
+
+
+.步骤
+. 从BlueXP左侧导航栏中、选择*监管*>*经济效率*>*容量规划*。
+. 为资产选择*评估存储选项*。
+. 选择*分层冷数据*。
+. 接下来的步骤取决于您是否已部署BlueXP Connector且已发现集群：
++
+** 如果您需要部署BlueXP Connector、请参阅所述的BlueXP文档 https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["如何创建连接器"^]。否则、如果您已部署Connector、则不会显示用于部署此连接器的选项。
+** 如果服务需要发现集群、请参见 https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-discovering-ontap.html["发现内部ONTAP 集群"^]。否则、如果已发现集群、则不会显示用于发现集群的选项。
+
+
++
+经济效率服务可启动与另一项NetApp BlueXP服务Cloud Tiering服务的连接。
+
+. 选择*添加连接器*。
+. 选择一个云提供程序、然后选择*继续*。
+. 选择*继续*或*跳至部署*。
++
+部署Connector后、如果尚未发现集群、则接下来、BlueXP Cloud Tiering将发现该集群。
+
+. 发现集群后、设置分层。
++
+有关分层的详细信息、请参见 https://docs.netapp.com/us-en/cloud-manager-tiering/index.html["Cloud Tiering服务文档"^]。
+
+

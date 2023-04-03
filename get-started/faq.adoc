@@ -1,0 +1,31 @@
+---
+sidebar: sidebar 
+permalink: get-started/faq.html 
+keywords: economic efficiency faq, economic efficiency frequently asked questions 
+summary: 如果您只是想快速了解问题解答，此常见问题解答会很有帮助。 
+---
+= 经济效率服务的常见问题解答
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+如果您只是想快速了解问题解答，此常见问题解答会很有帮助。
+
+
+
+== 获得经济效率服务
+
+*什么是BlueXP经济效率URL？*
+
+对于URL、在浏览器中输入： https://console.bluexp.netapp.com/["https://console.bluexp.netapp.com/"^] 以访问BlueXP控制台。
+
+
+
+== 许可
+
+*您是否需要许可证才能使用经济高效服务？*
+
+不需要NetApp许可证文件(NLF)。

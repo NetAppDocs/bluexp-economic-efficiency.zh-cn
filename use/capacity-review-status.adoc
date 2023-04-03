@@ -1,0 +1,37 @@
+---
+sidebar: sidebar 
+permalink: use/capacity-review-status.html 
+keywords: economic efficiency remediate, economic efficiency, capacity planning 
+summary: 通过验证对您的环境、网络访问、登录和Web浏览器的支持、开始使用《BlueXP经济效率》。 
+---
+= 查看容量规划状态
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+如果您的集群当前低于或预测低于70%容量的阈值、经济效率服务会将这些资源标识为低容量资源并向您发出警报。此外、经济效率服务还会提供有关您是对数据进行分层还是获取额外容量的建议。
+
+您可以查看以下类型的数据以协助解决容量问题描述 问题。
+
+* 平台
+* 资产所在的国家/地区
+* 按月显示当前容量和预测容量
+* 容量利用率和百分比
+* 延迟趋势
+* IOPS趋势
+
+
+.步骤
+. 从BlueXP左侧导航栏中、选择*监管*>*经济效率*>*容量规划*。
+. 为资产选择*评估存储选项*。
+. 选择以下选项之一：
++
+** *添加容量*：继续 link:../use/capacity-add.html["正在添加容量"]。
+** *分层冷数据*：继续 link:../use/capacity-tier-data.html["将冷数据分层到云存储并释放存储空间"]。
+** *不需要执行任何操作*：继续 link:../use/capacity-reminders.html["未选择任何操作并设置要重新检查的提醒"]。
+
+
+

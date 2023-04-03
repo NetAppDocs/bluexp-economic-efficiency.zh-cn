@@ -1,0 +1,43 @@
+---
+sidebar: sidebar 
+permalink: get-started/intro.html 
+keywords: how bluexp economic efficiency works, what is economic efficiency, bluexp 
+summary: '容量规划服务可识别当前或预测的低容量集群、并为您提供数据分层或额外容量建议(对于AFF 系统)。' 
+---
+= 了解经济高效服务
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/concepts/
+
+
+[role="lead"]
+容量规划对于避免因系统容量低而造成不必要的停机至关重要。NetApp BlueXP经济效率服务可帮助您实现以下目标：
+
+* 确定容量较低的集群。
+* 查看集群的当前容量和预测容量。
+* 查看CPU利用率、IOPS性能和延迟性能以确定容量修复的机会。
+
+
+经济高效服务可确定当前或预测的低容量集群、并提供有关数据分层或额外容量(对于AFF 系统)的建议。如果您选择添加容量、则会将包含详细建议的请求转发给您和NetApp代表。此请求包括轻松选择容量和订购请求所需的详细信息。
+
+可以在BlueXP中的*监管*类别下访问此服务。
+
+经济高效服务仅限适用场景 内部AFF 系统(包括统一AFF 和所有SAN阵列系统)。
+
+
+
+== 经济高效服务的优势
+
+经济高效服务具有以下优势：
+
+* 提供了一个获取额外容量的简单过程
+* 提供值得信赖的顾问和建议、帮助您解决环境中的容量问题
+* 减少规划额外存储所需的时间
+
+
+
+
+== 成本
+
+NetApp不会向您收取使用此服务的费用。如果您决定将冷数据分层到云存储、则需要向云提供商咨询适用的费用。

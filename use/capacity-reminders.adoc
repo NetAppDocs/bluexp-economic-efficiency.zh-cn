@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: use/capacity-reminders.html 
+keywords: bluexp, economic efficiency remediate, economic efficiency, capacity planning, set reminders for capacity 
+summary: 您无需添加容量或分层冷数据、而是可以选择此时不需要执行任何操作、并为自己设置提醒、以便在30、60或90天后再次检查。 
+---
+= 设置提醒以重新检查
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+您无需添加容量或分层冷数据、而是可以选择此时不需要执行任何操作、并为自己设置提醒、以便在30、60或90天后再次检查。
+
+.步骤
+. 从BlueXP左侧导航栏中、选择*监管*>*经济效率*>*容量规划*。
+. 为资产选择*评估存储选项*。
+. 选择*不需要执行任何操作*。
+. 选择何时希望再次收到有关潜在低容量问题描述 的通知：30天、60天或90天。
+. 选择 * 保存 * 。
+
+
+.结果
+经过这段时间后、风险将再次显示在风险列表中。
