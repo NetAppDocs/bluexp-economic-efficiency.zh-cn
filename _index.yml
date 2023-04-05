@@ -4,9 +4,9 @@ indexpage:
   tiles:
   - title: 入门
     links:
-    - title: 了解经济高效服务
+    - title: 了解经济高效的服务
       url: "/get-started/intro.html"
-    - title: 经济效率服务中的新增功能
+    - title: 经济高效服务的新增功能
       url: "/release-notes/whats-new.html"
     - title: 快速入门
       url: "/get-started/quick-start.html"

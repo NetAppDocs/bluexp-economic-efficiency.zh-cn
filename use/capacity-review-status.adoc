@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: use/capacity-review-status.html 
 keywords: economic efficiency remediate, economic efficiency, capacity planning 
-summary: 通过验证对您的环境、网络访问、登录和Web浏览器的支持、开始使用《BlueXP经济效率》。 
+summary: '如果您的集群当前低于或预测低于70%容量的阈值、经济高效服务会将这些资源标识为低容量资源并向您发出警报。' 
 ---
 = 查看容量规划状态
 :hardbreaks:
@@ -12,7 +12,7 @@ summary: 通过验证对您的环境、网络访问、登录和Web浏览器的�
 
 
 [role="lead"]
-如果您的集群当前低于或预测低于70%容量的阈值、经济效率服务会将这些资源标识为低容量资源并向您发出警报。此外、经济效率服务还会提供有关您是对数据进行分层还是获取额外容量的建议。
+如果您的集群当前低于或预测低于70%容量的阈值、经济高效服务会将这些资源标识为低容量资源并向您发出警报。此外、经济高效服务还会提供有关您是对数据进行分层还是获取额外容量的建议。
 
 您可以查看以下类型的数据以协助解决容量问题描述 问题。
 

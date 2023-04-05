@@ -18,7 +18,7 @@ summary: 通过几个步骤开始使用NetApp BlueXP经济效率服务。
 [role="quick-margin-para"]
 link:../get-started/prerequisites.html["确保您的环境满足这些要求"^]。
 
-.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-2.png["两个"] 设置经济效率服务
+.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-2.png["两个"] 设置经济高效服务
 [role="quick-margin-para"]
 link:../get-started/capacity-setup.html["完成设置服务的步骤"^]。
 

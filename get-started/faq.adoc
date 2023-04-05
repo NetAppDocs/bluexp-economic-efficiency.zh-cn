@@ -4,7 +4,7 @@ permalink: get-started/faq.html
 keywords: economic efficiency faq, economic efficiency frequently asked questions 
 summary: 如果您只是想快速了解问题解答，此常见问题解答会很有帮助。 
 ---
-= 经济效率服务的常见问题解答
+= 经济高效服务的常见问题
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -16,7 +16,7 @@ summary: 如果您只是想快速了解问题解答，此常见问题解答会�
 
 
 
-== 获得经济效率服务
+== 获得经济高效服务
 
 *什么是BlueXP经济效率URL？*
 

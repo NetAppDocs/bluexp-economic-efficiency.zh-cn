@@ -4,7 +4,7 @@ permalink: get-started/capacity-setup.html
 keywords: bluexp, economic efficiency remediate, economic efficiency, capacity planning, set reminders for capacity 
 summary: 要使用经济高效服务、请执行几个步骤进行设置。 
 ---
-= 设置经济效率服务
+= 设置经济高效服务
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
