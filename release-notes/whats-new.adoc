@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: release-notes/whats-new.html 
 keywords: economic efficiency faq, economic efficiency frequently asked questions 
-summary: '经济高效服务可识别当前或预测的低容量集群、并提供有关数据分层或额外容量(对于AFF 系统)的建议。' 
+summary: '经济高效服务可识别当前容量或预测容量较低的资产、并提供数据分层或额外容量建议(适用于AFF 系统)。' 
 ---
 = 新增功能
 :hardbreaks:
@@ -18,6 +18,6 @@ summary: '经济高效服务可识别当前或预测的低容量集群、并提�
 
 == 2023年4月2日
 
-新的经济高效服务可识别当前或预测的低容量集群、并为内部AFF 系统提供数据分层或额外容量建议。
+新的经济高效服务可识别当前或预测的低容量存储资产、并为内部AFF 系统提供数据分层或额外容量建议。
 
 link:https://docs.netapp.com/us-en/bluexp-economic-efficiency/get-started/intro.html["了解有关此新服务的更多信息"]。
