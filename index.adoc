@@ -2,9 +2,9 @@
 layout: landing-page 
 sidebar: sidebar 
 permalink: index.html 
-summary: 容量规划对于避免因系统容量低而造成不必要的停机至关重要。NetApp BlueXP经济效率服务可帮助您确定容量较低的集群、查看集群的当前容量和预测容量、并查看CPU利用率、IOPS性能和延迟性能、以确定容量修复的机会。 
+summary: 容量规划对于避免因系统容量低而造成不必要的停机至关重要。BlueXP经济高效功能可帮助您确定容量不足的集群、查看集群的当前容量和预测容量、以及查看CPU利用率、IOPS性能和延迟性能、以确定进行容量修复的机会。 
 ---
-= 经济高效服务
+= BlueXP经济效益
 :hardbreaks:
 :allow-uri-read: 
 :nofooter: 

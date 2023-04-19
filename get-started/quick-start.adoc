@@ -4,7 +4,7 @@ permalink: get-started/quick-start.html
 keywords: how to get started with bluexp economic efficiency, economic efficiency quick start, capacity planning 
 summary: 通过几个步骤开始使用NetApp BlueXP经济效率服务。 
 ---
-= 经济高效服务的快速入门
+= BlueXP经济高效快速入门
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -12,7 +12,7 @@ summary: 通过几个步骤开始使用NetApp BlueXP经济效率服务。
 
 
 [role="lead"]
-下面简要介绍了开始使用NetApp BlueXP经济效率服务所需的步骤。每个步骤中的链接将转到一个页面，其中提供了更多详细信息。
+下面概述了开始使用BlueXP经济高效功能所需的步骤。每个步骤中的链接将转到一个页面，其中提供了更多详细信息。
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-1.png["一个"] 查看前提条件
 [role="quick-margin-para"]
@@ -24,7 +24,7 @@ link:../get-started/capacity-setup.html["完成设置服务的步骤"^]。
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-3.png["三个"] 下一步是什么？
 [role="quick-margin-para"]
-完成服务设置后、您接下来可以执行以下操作。
+设置服务后、接下来可以执行以下操作。
 
 [role="quick-margin-list"]
 * link:../use/capacity-review-status.html["查看容量规划状态"^]。

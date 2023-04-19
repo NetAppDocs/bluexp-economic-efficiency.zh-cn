@@ -27,12 +27,6 @@
   <block id="fbb1f938c9f1ccb40c31c54f15fc89ea" category="list-text">从BlueXP左侧导航栏中、选择*监管*&gt;*经济效率*&gt;*容量规划*。</block>
   <block id="516d28f53c7dff8d7f269aaa4d14b40e" category="list-text">为资产选择*评估存储选项*。</block>
   <block id="393020d67c4695c30e4112c74946b74b" category="list-text">选择以下选项之一：</block>
-  <block id="7335b11b786b6697e0a94395a15a199e" category="inline-link-macro">正在添加容量</block>
-  <block id="6bfca54d4928d14a8eacc27f2b69ffaf" category="list-text">*添加容量*：继续 <block ref="c66ba59a324e8043bd3a8207394d4701" category="inline-link-macro-rx"></block>。</block>
-  <block id="8ba002b9312f94164aa11f2c3a1f58fb" category="inline-link-macro">将冷数据分层到云存储并释放存储空间</block>
-  <block id="bd9fba5131fe31e90bfebbe0a6d1fbc4" category="list-text">*分层冷数据*：继续 <block ref="9cc0dcfcd75c3218b5d225e3ae2afe53" category="inline-link-macro-rx"></block>。</block>
-  <block id="e9f46f0dabd9b0a7cb1c344012680279" category="inline-link-macro">未选择任何操作并设置要重新检查的提醒</block>
-  <block id="40bc28714e5ee6178cf9bc098160d023" category="list-text">*不需要执行任何操作*：继续 <block ref="8a3dfb7bd904e33c9fbc3c16fc228e01" category="inline-link-macro-rx"></block>。</block>
   <block id="dbaae314ffc8b46919877d02b85696cb" category="doc">添加容量</block>
   <block id="d61c6fe6373ce09cb70846c4b4009e46" category="paragraph">建议之一可能是通过向现有序列号添加磁盘架来添加容量。</block>
   <block id="417aeeb6b45f27026b8f5da134cf808b" category="paragraph">您可以轻松地将此建议作为报价请求或备用选项请求提交给NetApp销售团队。</block>
@@ -71,10 +65,7 @@
   <block id="fc76487e321b8bd0278a190f0b8bd401" category="list-text">选择*添加连接器*。</block>
   <block id="cea9f928dfa7f018d5f69d0b3d5fa567" category="list-text">选择一个云提供程序、然后选择*继续*。</block>
   <block id="6b52a1aec285337477d1fef91d9efaf0" category="list-text">选择*继续*或*跳至部署*。</block>
-  <block id="61e2d8f8a13d1a8a1a315cc91c04f53e" category="paragraph">部署Connector后、如果尚未发现集群、则接下来、BlueXP Cloud Tiering将发现该集群。</block>
   <block id="51719535acedbf69edcd6974f73c1601" category="list-text">发现集群后、设置分层。</block>
-  <block id="e8c45e24f90fcbcfaa33ff75b0bfe821" category="inline-link">Cloud Tiering服务文档</block>
-  <block id="d97763a1946e823afaeeecfb5ddaec5d" category="paragraph">有关分层的详细信息、请参见<block ref="281045bf39d451d51f0c3533bb2a2073" category="inline-link-rx"></block>。</block>
   <block id="8996677d91a175f8986c9fb086d0a019" category="summary">您无需添加容量或分层冷数据、而是可以选择此时不需要执行任何操作、并为自己设置提醒、以便在30、60或90天后再次检查。</block>
   <block id="3244b6844658e5e33144f6b7eae011e7" category="doc">设置提醒以重新检查</block>
   <block id="cdd7417e4a2578a1e8718f7130de6a7d" category="list-text">选择*不需要执行任何操作*。</block>
@@ -82,8 +73,6 @@
   <block id="10492389e94efdebbb66f7b0cd8a1324" category="list-text">选择 * 保存 * 。</block>
   <block id="8eea62084ca7e541d918e823422bd82e" category="paragraph-title">结果</block>
   <block id="49888fcfedf40834e6baa46c3569b5b4" category="paragraph">经过这段时间后、风险将再次显示在风险列表中。</block>
-  <block id="0a0860e9870b3d9fd1d712f2215ee3c8" category="doc">经济高效服务</block>
-  <block id="4386eb2b71427fcf0dcb5cf90640a361" category="doc">经济高效的前提条件</block>
   <block id="84804abf3404a430e85ae3299587a6b0" category="paragraph">首先验证您的操作环境、登录、网络访问和Web浏览器是否就绪。</block>
   <block id="3bb4638459c9fa17eee7502169bd253e" category="list-text">您的环境必须满足所有BlueXP要求、包括通过Web浏览器进行登录和网络访问。</block>
   <block id="a3538d61b66c68f21178c789ab57dc45" category="list-text">您需要拥有集群的访问凭据。</block>
@@ -98,14 +87,12 @@
   <block id="60766643470eca71a0ef352b62e0a838" category="paragraph"><block ref="6ae54feb46cd36301fb1386a964f0be6" category="inline-link-macro-rx"></block>。</block>
   <block id="ca8a2087e5557e317599344687a57391" category="inline-image-macro">三个</block>
   <block id="fb35cdd7029fec15aadbdddd879fa161" category="paragraph-title"><block ref="05b2444faffd66d76e88602ea7dd353f" category="inline-image-macro-rx" type="image"></block> 下一步是什么？</block>
-  <block id="19ceaf81f50456bdfe6fb1329956f3bc" category="paragraph">完成服务设置后、您接下来可以执行以下操作。</block>
   <block id="ca8a749c1fbfddafb4179c330f1f70b6" category="list-text"><block ref="a331806f2b2936676e36463aed0c2570" category="inline-link-macro-rx"></block>。</block>
   <block id="4dda7928bb232067460dae014f5d3c19" category="list-text"><block ref="3cb1671078737d4ecd8aac6c0e87e9e1" category="inline-link-macro-rx"></block>。</block>
   <block id="3cf1c3e32dc7a64121e7f0ffa91d5c26" category="inline-link-macro">将冷数据分层到云存储以释放存储空间</block>
   <block id="37b482b6cc26ff8a32f155b4aebfe936" category="list-text"><block ref="c4c4008903c7bf31faac3cec39c9af2b" category="inline-link-macro-rx"></block>。</block>
   <block id="9da433a276b8c58aa7c1c0c04ac7063c" category="inline-link-macro">或者、也可以设置提醒以再次检查</block>
   <block id="a2e5f6092d9ac64bb72c17d7c802989e" category="list-text"><block ref="13cddad928a54274073f8e0ed02030a0" category="inline-link-macro-rx"></block>。</block>
-  <block id="be0b6ed69c50cea3a8eb8459821a798d" category="summary">容量规划服务可识别当前或预测的低容量集群、并为您提供数据分层或额外容量建议(对于AFF 系统)。</block>
   <block id="3206da35a6da359e9140e8c4b0bc7c85" category="list-text">查看CPU利用率、IOPS性能和延迟性能以确定容量修复的机会。</block>
   <block id="73392ce9486f187520554de1730eae2e" category="paragraph">可以在BlueXP中的*监管*类别下访问此服务。</block>
   <block id="6ebfa87b6f7144251026e89d7ce188ca" category="list-text">提供了一个获取额外容量的简单过程</block>
@@ -125,7 +112,6 @@
   <block id="90663bb87b6bec4a92a7b1f0dc5b480d" category="list-text">请查看 <block ref="7009d9e779d272896f977d5e53a42299" category="inline-link-macro-rx"></block> 以确保您的环境已准备就绪。</block>
   <block id="1835d0517fe4ffa8b6a639fa95e369ad" category="list-text">在BlueXP中创建连接器。</block>
   <block id="e676f0c089390ef0b70aea9845c97efa" category="list-text">在BlueXP中发现集群。</block>
-  <block id="01688a0e15dc71e56383e08c45b474a3" category="paragraph">同样、您也可以使用BlueXP提前发现集群、或者在风险修复过程中发现集群。</block>
   <block id="ccaaa0b1fdb9afd84865d38039f74d41" category="section-title">在BlueXP中创建连接器</block>
   <block id="0e13adbff2b342064a892a15607f1d16" category="paragraph">BlueXP连接器包含NetApp ONTAP Machine的凭据。</block>
   <block id="d29bda09bea50f3d6b0e9d9d61015179" category="inline-link">如何创建连接器</block>
@@ -288,12 +274,9 @@
   <block id="e646e16bee8b32e6ea29e30d01970a6c" category="doc">限制</block>
   <block id="490414e0366b091220802d406e52c076" category="doc">新增功能</block>
   <block id="88c49608e723add593f5becc8bd9a968" category="section-title">2023年4月2日</block>
-  <block id="7e0c2cf881384db7bfcfb883b67871a5" category="inline-link-macro">了解有关此新服务的更多信息</block>
-  <block id="38532dd1586dac78ea99ce1216e1f352" category="paragraph"><block ref="6e51c6b9ced37d3ad7414d5e4d1ac63a" category="inline-link-macro-rx"></block>。</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">入门</block>
   <block id="06ad314b340900d226b1196e1fe289e9" category="sidebar">快速入门</block>
   <block id="ee68e5b99222bbc29a480fcb0d1d6ee2" category="sidebar">前提条件</block>
-  <block id="1da54223aacfae99a4874c0e691e9686" category="sidebar">登录到BlueXP上的服务</block>
   <block id="1fe917b01f9a3f87fa2d7d3b7643fac1" category="sidebar">常见问题解答</block>
   <block id="bf094ea6ac295bf93e9ed9f735604ae0" category="sidebar">查看容量状态</block>
   <block id="bd427205be5a276d634b96c7cf7398b1" category="sidebar">将冷数据分层到云存储</block>
@@ -301,9 +284,7 @@
   <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">NetApp 社区</block>
   <block id="e7719a97642051ee358e5d15cf1ab284" category="sidebar">Cloud Tiering博客</block>
   <block id="ad203e818e0c9d7f42f1c260b33875f3" category="sidebar">云网络研讨会</block>
-  <block id="7d961289586c23e5fb903ed21636bcc8" category="sidebar">经济效率文档</block>
   <block id="7a45e6298bb69116e2c6db653fb88884" category="sidebar">所有BlueXP文档</block>
-  <block id="c6c64cb38e97edda8ffa90f94528ff44" category="sidebar">访问BlueXP上的服务</block>
   <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">知识和支持</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">发行说明</block>
   <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">新增功能</block>
@@ -318,45 +299,64 @@
   <block id="fbd53e396987285cf235247a34844e9e" category="summary">如果您的集群当前低于或预测低于70%容量的阈值、经济高效服务会将这些资源标识为低容量资源并向您发出警报。</block>
   <block id="a53148ee8712975fc57be46589bc8da7" category="summary">经济高效服务可根据预测的数据增长为AFF 系统提供建议。您可以接受预测或输入自己的预测。在此基础上、该服务会提供一些建议、以满足容量增长预测并最适合资产配置。</block>
   <block id="d171b7e73c5f2dfd5aa6af3cf856c062" category="summary">NetApp BlueXP经济效率容量规划服务使用AI预测数据增长、以帮助规划过程。</block>
-  <block id="41da446d1155100dfeb1aed1576bf390" category="paragraph">容量规划包括确定环境中的低容量区域、包括当前和预测的区域。NetApp BlueXP经济效率服务使用AI预测数据增长、以帮助规划过程。经济高效服务可确定您环境中的低容量区域、并提供解决问题的方法建议。</block>
-  <block id="0a4a0858eb93014667524a512d567db2" category="paragraph">通过经济高效服务、您可以实现以下目标：</block>
-  <block id="afb34d950bc4701e1ca377043626dd7f" category="summary">经济效率服务可根据预测的数据增长提供建议。您可以接受预测或输入自己的预测。在此基础上、该服务会提供一些建议、以满足预计的容量增长需求、并最适合资产配置。其中一项建议可能是将冷数据分层到云存储以释放容量。此建议将启动与另一个BlueXP服务NetApp Cloud Tiering的连接。</block>
-  <block id="43a88d3acb500eacf8827be889290b78" category="paragraph">在此基础上、您可以对数据进行分层、并轻松返回到经济高效服务、以便对其他系统采取措施。</block>
-  <block id="17059fe74360229e879a759843201d70" category="paragraph">经济高效服务可启动与另一项NetApp BlueXP服务Cloud Tiering服务的连接。</block>
-  <block id="8fea032899ecd07fc90802e814c217b4" category="summary">容量规划对于避免因系统容量低而造成不必要的停机至关重要。NetApp BlueXP经济效率服务可帮助您确定容量较低的集群、查看集群的当前容量和预测容量、并查看CPU利用率、IOPS性能和延迟性能、以确定容量修复的机会。</block>
-  <block id="ab64efe8ea6517b4d4f5995878949be8" category="summary">通过验证对您的环境、网络访问、登录和Web浏览器的支持、开始了解BlueXP的经济效益。</block>
-  <block id="e15b5e0d1a3f0c5ba311a07635b7e217" category="paragraph">要使用经济高效服务、您应确保环境满足所有要求。</block>
   <block id="501089da83496a12da7846c949b29a52" category="summary">通过几个步骤开始使用NetApp BlueXP经济效率服务。</block>
-  <block id="f67a49063476dac82e6bea21e4339573" category="doc">经济高效服务的快速入门</block>
-  <block id="b22b3b0df44e737562c6641ace27c49b" category="paragraph">下面简要介绍了开始使用NetApp BlueXP经济效率服务所需的步骤。每个步骤中的链接将转到一个页面，其中提供了更多详细信息。</block>
   <block id="aaa9c54233f5e7b76837549c4c1bbc28" category="paragraph-title"><block ref="54f425ce8d89f4ed6b8a546561af5d60" category="inline-image-macro-rx" type="image"></block> 设置经济高效服务</block>
-  <block id="2d6fa3cc18d11dd7de03378659737f52" category="doc">了解经济高效的服务</block>
-  <block id="2ded2a84885e7c50040c1fe60311f4b3" category="paragraph">容量规划对于避免因系统容量低而造成不必要的停机至关重要。NetApp BlueXP经济效率服务可帮助您实现以下目标：</block>
-  <block id="b2b088cef491a4f1c797cf1b3e120387" category="paragraph">经济高效的服务仅限适用场景 内部AFF 系统(包括统一AFF 和所有SAN阵列系统)。</block>
-  <block id="942ba0f6ea6d830dd4fd89a3a73e6f67" category="section-title">经济高效服务的优势</block>
-  <block id="54a0de45d377bd0d1d4a56763b979d36" category="paragraph">经济高效服务具有以下优势：</block>
-  <block id="0df5c13966c618a22fbba4fb040d381a" category="doc">经济高效服务的常见问题</block>
-  <block id="88804581e6ce821aa2b70464105e11f8" category="section-title">获得经济高效服务</block>
   <block id="ab56773ec54d1f5da941c2a5911ab633" category="paragraph">*什么是BlueXP经济效率URL？*</block>
-  <block id="1dc7bcd22f2ba6af88f86d6438c4cfbf" category="paragraph">*您是否需要许可证才能使用经济高效服务？*</block>
-  <block id="0219b3ff65cf0d583bb7e8912368a1a7" category="summary">通过访问BlueXP中的服务开始体验经济高效服务。</block>
-  <block id="6ff6f7363eac188c813717945e80f242" category="doc">访问BlueXP上的经济高效服务</block>
   <block id="e4ceda68ed2ad1c8b6de4d9499487b31" category="paragraph">您可以使用NetApp BlueXP登录到经济效率服务。</block>
-  <block id="0abe2c8bae7cad710a4ad886e3ee0d0a" category="summary">要使用经济高效服务、请执行几个步骤进行设置。</block>
-  <block id="3088e97bad860ce6779b76a124c78ae0" category="doc">设置经济高效服务</block>
-  <block id="07089c4727f83059c9b5e357d73e88a2" category="paragraph">您可以直接在BlueXP中创建连接器、稍后在经济效率服务中使用该连接器。或者、您也可以在风险修复过程中创建Connector。</block>
-  <block id="5e7b046dc9daacb3eb94996563205d67" category="paragraph">了解经济高效服务的新增功能。</block>
-  <block id="0d444fc1d4812b98559f9cc39f5fd31f" category="sidebar">经济高效服务的新增功能</block>
-  <block id="13a808531c1289bcc88bebc003bfcc72" category="sidebar">使用经济高效服务</block>
   <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
   <block id="69b085a23d3ed85c84455b9288792bf2" category="inline-link">BlueXP快速入门</block>
   <block id="45e7f38a8238b36c23e85bbe6436ba0b" category="inline-link">BlueXP网络信息</block>
   <block id="ab38a54ae4da8a4cab463c7bb64ef70a" category="paragraph">请参见<block ref="4b1866f17dc6bd66f88d9d6839084df6" category="inline-link-rx"></block> 和<block ref="8b2e3c99c244ff11d22f3c561bd167b2" category="inline-link-rx"></block>。</block>
   <block id="6a38b1e28c18e6b4edeb4e7b0818a2d7" category="list-text">确定环境中容量较低的存储资产。</block>
   <block id="f0a161f3ab72e29c18f1f08d5d13b96c" category="list-text">查看资产的当前容量和预测容量。</block>
-  <block id="f159f78afb33cd3b638e662d13fefec3" category="paragraph">经济高效服务可识别当前容量或预测容量较低的存储资产、并提供数据分层或额外容量建议(适用于AFF 系统)。如果您选择添加容量、则会将包含详细建议的请求转发给您和NetApp代表。此请求包括轻松选择容量和订购请求所需的详细信息。</block>
-  <block id="2e8c046d8aec606e517b6de07b22bf49" category="summary">经济高效服务可识别当前容量或预测容量较低的资产、并提供数据分层或额外容量建议(适用于AFF 系统)。</block>
-  <block id="b0d4aa7122dfc7ff627e44c134e7141e" category="paragraph">新的经济高效服务可识别当前或预测的低容量存储资产、并为内部AFF 系统提供数据分层或额外容量建议。</block>
-  <block id="5fc41c74d95e1bc5b0a12c9e265580be" category="paragraph">经济效率服务可根据预测的数据增长提供建议。您可以接受预测或输入自己的预测。在此基础上、该服务会提供一些建议、以满足预计的容量增长需求、并最适合存储资产配置。其中一项建议可能是将冷数据分层到云存储以释放容量。此建议将启动与另一个BlueXP服务NetApp Cloud Tiering的连接。</block>
-  <block id="c65db45c5a58142850a4dc71835badf6" category="paragraph">如果您环境中的存储资产当前低于或预测低于970%容量的阈值、经济高效服务会将这些资产标识为低容量资源并向您发出警报。此外、经济高效服务还会提供有关您是对数据进行分层还是获取额外容量的建议。</block>
+  <block id="eccbf2d005133654fdaff166311ce0c9" category="summary">容量规划对于避免因系统容量低而造成不必要的停机至关重要。BlueXP经济高效功能可帮助您确定容量不足的集群、查看集群的当前容量和预测容量、以及查看CPU利用率、IOPS性能和延迟性能、以确定进行容量修复的机会。</block>
+  <block id="71bd4794c020a7645a4cfe74173f4058" category="doc">BlueXP经济效益</block>
+  <block id="7372cb38b352714605614895b4902bd6" category="summary">通过验证对您的环境、网络访问、登录和Web浏览器的支持、开始使用BlueXP经济高效。</block>
+  <block id="ab5c19f216ae2b278b842bd3c6cdf7e2" category="doc">BlueXP经济高效的前提条件</block>
+  <block id="2058bc2a64f08d83b90f6c8bacfeb33c" category="paragraph">要使用Blue的经济效益、您应确保您的环境满足所有要求。</block>
+  <block id="e029c7198e0a0d70e2816b726b7951f3" category="summary">通过访问BlueXP中的服务、开始使用BlueXP经济高效。</block>
+  <block id="a367ed9be142be10a959a44919e5f2e2" category="doc">访问BlueXP经济高效</block>
+  <block id="3f631ba896c1faab92fa6644538f2fdd" category="summary">BlueXP经济高效服务可识别当前容量或预测容量较低的集群、并为您提供有关数据分层或额外容量的建议(适用于AFF 系统)。</block>
+  <block id="df213f3ab79b8da9c8b1a9aa66a49358" category="doc">了解BlueXP的经济效益</block>
+  <block id="4174e7acaa0d2a79ceca6bdc82e5321c" category="paragraph">容量规划对于避免因系统容量低而造成不必要的停机至关重要。BlueXP经济高效可帮助您实现以下目标：</block>
+  <block id="a83631a3d8ab10baf32d9bd94cb9b5d3" category="paragraph">BlueXP经济高效功能可识别当前或预测的低容量存储资产、并提供有关数据分层或额外容量的建议(适用于AFF 系统)。如果您选择添加容量、则会将包含详细建议的请求转发给您和NetApp代表。此请求包括轻松选择容量和订购请求所需的详细信息。</block>
+  <block id="606b72f9a7450d39e6e110c4edcdbd88" category="paragraph">BlueXP经济高效适用场景 仅适用于内部AFF 系统(包括统一AFF 和所有SAN阵列系统)。</block>
+  <block id="6c4ccbebd2c1bc279ee2cb6f8f6b41f9" category="section-title">BlueXP经济高效的优势</block>
+  <block id="fa994af86d0c0087b7eee14a622f20f6" category="paragraph">BlueXP经济高效具有以下优势：</block>
+  <block id="b7ec73ab5a17a83ab2fe26bc232073c2" category="summary">要使用BlueXP的经济效益、请执行几个步骤进行设置。</block>
+  <block id="3c3457659be71e581c1a88bdaf9cbdcd" category="doc">建立BlueXP的经济效益</block>
+  <block id="c76e8df73df2a4958416b2c5c7eb3432" category="paragraph">您可以直接在BlueXP中创建Connector、并在以后的BlueXP经济高效中使用该Connector。或者、您也可以在容量修复过程中创建连接器。</block>
+  <block id="21f0b443c05de24878feaa5358224e29" category="paragraph">同样、您可以使用BlueXP提前发现集群、也可以在容量修复过程中发现集群。</block>
+  <block id="f27ce016259562ba8cd33e55e719a92e" category="doc">BlueXP经济高效快速入门</block>
+  <block id="c2b40c93f214d1f116185f61e51a626c" category="paragraph">下面概述了开始使用BlueXP经济高效功能所需的步骤。每个步骤中的链接将转到一个页面，其中提供了更多详细信息。</block>
+  <block id="0d5e44db30a371573d3409dc5db80551" category="paragraph">设置服务后、接下来可以执行以下操作。</block>
+  <block id="2aac28c0e66ef23b3e92b337139061df" category="doc">有关BlueXP经济效率的常见问题</block>
+  <block id="722e45d4312069bddbd843c7cfde4d62" category="section-title">获得BlueXP的经济效益</block>
+  <block id="13d1effb4b36d6b3478f0737f984f459" category="paragraph">*您是否需要许可证才能使用BlueXP的经济效益？*</block>
+  <block id="ae0e6a9591b0ba940ca472563fff152d" category="summary">BlueXP经济高效功能可识别当前或预测的低容量资产、并提供有关数据分层或额外容量的建议(适用于AFF 系统)。</block>
+  <block id="c24b642feb1fabfe18bbee711c803f24" category="paragraph">了解BlueXP经济高效方面的新增功能。</block>
+  <block id="35c28a4f1250fc5c59dd5bfa5d9993ce" category="paragraph">全新的BlueXP经济高效服务可识别当前或预测的低容量存储资产、并为内部AFF 系统提供数据层或额外容量建议。</block>
+  <block id="345d0e0aeae5ae7cbf8cdd1fc138e5e6" category="inline-link-macro">详细了解BlueXP的经济效益</block>
+  <block id="838d01d8bf08e23ff670a400ad2cb368" category="paragraph"><block ref="c4b58b1c24fbcd13ec6df8ee9e6c3a23" category="inline-link-macro-rx"></block>。</block>
+  <block id="20d6f49b527c941ea400d33bec3ddfdc" category="paragraph">BlueXP经济高效功能可根据预测的数据增长为AFF 系统提供建议。您可以接受预测或输入自己的预测。在此基础上、该服务会提供一些建议、以满足容量增长预测并最适合资产配置。</block>
+  <block id="cee6750d0d4e5f1ebf12ff5962c2cc05" category="paragraph">容量规划包括确定环境中的低容量区域、包括当前和预测的区域。BlueXP经济高效利用AI预测数据增长、以帮助规划过程。经济高效服务可确定您环境中的低容量区域、并提供解决问题的方法建议。</block>
+  <block id="15ff24e1dff620c1df51b9d6cb48a073" category="paragraph">利用BlueXP的经济效益、您可以实现以下目标：</block>
+  <block id="2b787d5a3ddc4d29ecaec24185257f94" category="summary">BlueXP经济效率服务可根据预测的数据增长提供建议。您可以接受预测或输入自己的预测。在此基础上、该服务会提供一些建议、以满足预计的容量增长需求、并最适合资产配置。其中一项建议可能是将冷数据分层到云存储以释放容量。此建议将启动与另一个BlueXP服务NetApp Cloud Tiering的连接。</block>
+  <block id="ea29270a68ffb033810e16bff4b5fd66" category="paragraph">BlueXP经济高效功能可根据预测的数据增长提供建议。您可以接受预测或输入自己的预测。在此基础上、该服务会提供一些建议、以满足预计的容量增长需求、并最适合存储资产配置。其中一项建议可能是将冷数据分层到云存储以释放容量。此建议将启动与另一个BlueXP服务NetApp BlueXP分层(Cloud Tiering、Cloud Tiering)的连接。</block>
+  <block id="f43a34ab4337c16e506bc4b4470f2e5a" category="paragraph">然后、您可以对数据进行分层、轻松恢复到BlueXP的经济效益、以便对其他系统执行操作。</block>
+  <block id="b77b8d53b8f9ad06ff4f1c4f66ce0810" category="paragraph">BlueXP经济高效可启动与BlueXP层服务的连接。</block>
+  <block id="6fbd69f2466455027f39d7ed05855812" category="paragraph">部署Connector后、BlueXP分层会发现集群(如果尚未发现)。</block>
+  <block id="94cbb43a5cde5c6df8693b056bc08139" category="inline-link">XP Bluetiering文档</block>
+  <block id="5b4267b046db5f03341b553b4e3771d1" category="paragraph">有关分层的详细信息、请参见<block ref="8eeb1fb0bf24f398f46bcf8e1cd7fe0b" category="inline-link-rx"></block>。</block>
+  <block id="b65cfef4d4fde75189a1e74b65a77ec0" category="paragraph">如果您环境中的存储资产当前低于或预计低于90%容量的阈值、则经济高效服务会将这些资产标识为低容量资源并向您发出警报。此外、经济高效服务还会提供有关您是对数据进行分层还是获取额外容量的建议。</block>
+  <block id="91c71bf1224b1e14a6c1f681b8177e35" category="inline-link-macro">正在添加容量</block>
+  <block id="d9883c7f55a9f89fbe625003d35013d9" category="list-text">*添加容量*：继续 <block ref="da789fd2f6c7c3e80b54e962404e89e8" category="inline-link-macro-rx"></block>。</block>
+  <block id="9d9adc1e6779b1d49c9746d8b1715ad4" category="inline-link-macro">将冷数据层到云存储并释放存储空间</block>
+  <block id="47141754b699410733fa9410d0da24bd" category="list-text">*分层冷数据*：继续 <block ref="e76e1661c872ce87a3a0c42e10da0c33" category="inline-link-macro-rx"></block>。</block>
+  <block id="7da2d43820b3b6996f9bf72d06cd62d2" category="inline-link-macro">选择不执行任何操作并设置提醒以再次检查</block>
+  <block id="58a0e9ebd5e083225a07bd151e8177e1" category="list-text">*不需要执行任何操作*：继续 <block ref="6ab97855d646364f9472f51352902b2e" category="inline-link-macro-rx"></block>。</block>
+  <block id="be927a0c7de9e9a4deadb896c66cc674" category="sidebar">BlueXP经济效率的新增功能</block>
+  <block id="d4a184baad527c4d76864b1bd61040ed" category="sidebar">登录到BlueXP经济高效</block>
+  <block id="f65eafc37ceb7865c90318dc460588b6" category="sidebar">利用BlueXP经济高效</block>
+  <block id="a8cb12aeeba055d38bbada7b5b51b760" category="sidebar">BlueXP经济高效文档</block>
 </blocks>

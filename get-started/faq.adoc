@@ -4,7 +4,7 @@ permalink: get-started/faq.html
 keywords: economic efficiency faq, economic efficiency frequently asked questions 
 summary: 如果您只是想快速了解问题解答，此常见问题解答会很有帮助。 
 ---
-= 经济高效服务的常见问题
+= 有关BlueXP经济效率的常见问题
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -16,7 +16,7 @@ summary: 如果您只是想快速了解问题解答，此常见问题解答会�
 
 
 
-== 获得经济高效服务
+== 获得BlueXP的经济效益
 
 *什么是BlueXP经济效率URL？*
 
@@ -26,6 +26,6 @@ summary: 如果您只是想快速了解问题解答，此常见问题解答会�
 
 == 许可
 
-*您是否需要许可证才能使用经济高效服务？*
+*您是否需要许可证才能使用BlueXP的经济效益？*
 
 不需要NetApp许可证文件(NLF)。

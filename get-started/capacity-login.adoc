@@ -2,9 +2,9 @@
 sidebar: sidebar 
 permalink: get-started/capacity-login.html 
 keywords: bluexp login, capacity planning log in 
-summary: 通过访问BlueXP中的服务开始体验经济高效服务。 
+summary: 通过访问BlueXP中的服务、开始使用BlueXP经济高效。 
 ---
-= 访问BlueXP上的经济高效服务
+= 访问BlueXP经济高效
 :hardbreaks:
 :allow-uri-read: 
 :icons: font

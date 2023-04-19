@@ -2,15 +2,15 @@
 section: get-started
 title: 入门
 entries:
-- title: 了解经济高效的服务
+- title: 了解BlueXP的经济效益
   url: "/get-started/intro.html"
 - title: 前提条件
   url: "/get-started/prerequisites.html"
 - title: 快速入门
   url: "/get-started/quick-start.html"
-- title: 设置经济高效服务
+- title: 建立BlueXP的经济效益
   url: "/get-started/capacity-setup.html"
-- title: 访问BlueXP上的服务
+- title: 访问BlueXP经济高效
   url: "/get-started/capacity-login.html"
 - title: 常见问题解答
   url: "/get-started/faq.html"

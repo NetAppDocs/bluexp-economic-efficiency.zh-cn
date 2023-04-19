@@ -2,9 +2,9 @@
 sidebar: sidebar 
 permalink: get-started/capacity-setup.html 
 keywords: bluexp, economic efficiency remediate, economic efficiency, capacity planning, set reminders for capacity 
-summary: 要使用经济高效服务、请执行几个步骤进行设置。 
+summary: 要使用BlueXP的经济效益、请执行几个步骤进行设置。 
 ---
-= 设置经济高效服务
+= 建立BlueXP的经济效益
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -12,16 +12,16 @@ summary: 要使用经济高效服务、请执行几个步骤进行设置。
 
 
 [role="lead"]
-要使用经济高效服务、请执行几个步骤进行设置。
+要使用BlueXP的经济效益、请执行几个步骤进行设置。
 
 * 请查看 link:../get-started/prerequisites.html["前提条件"] 以确保您的环境已准备就绪。
 * 在BlueXP中创建连接器。
 * 在BlueXP中发现集群。
 
 
-您可以直接在BlueXP中创建连接器、稍后在经济效率服务中使用该连接器。或者、您也可以在风险修复过程中创建Connector。
+您可以直接在BlueXP中创建Connector、并在以后的BlueXP经济高效中使用该Connector。或者、您也可以在容量修复过程中创建连接器。
 
-同样、您也可以使用BlueXP提前发现集群、或者在风险修复过程中发现集群。
+同样、您可以使用BlueXP提前发现集群、也可以在容量修复过程中发现集群。
 
 
 
