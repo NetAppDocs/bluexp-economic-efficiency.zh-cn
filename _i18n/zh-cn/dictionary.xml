@@ -313,7 +313,6 @@
   <block id="71bd4794c020a7645a4cfe74173f4058" category="doc">BlueXP经济效益</block>
   <block id="7372cb38b352714605614895b4902bd6" category="summary">通过验证对您的环境、网络访问、登录和Web浏览器的支持、开始使用BlueXP经济高效。</block>
   <block id="ab5c19f216ae2b278b842bd3c6cdf7e2" category="doc">BlueXP经济高效的前提条件</block>
-  <block id="2058bc2a64f08d83b90f6c8bacfeb33c" category="paragraph">要使用Blue的经济效益、您应确保您的环境满足所有要求。</block>
   <block id="e029c7198e0a0d70e2816b726b7951f3" category="summary">通过访问BlueXP中的服务、开始使用BlueXP经济高效。</block>
   <block id="a367ed9be142be10a959a44919e5f2e2" category="doc">访问BlueXP经济高效</block>
   <block id="3f631ba896c1faab92fa6644538f2fdd" category="summary">BlueXP经济高效服务可识别当前容量或预测容量较低的集群、并为您提供有关数据分层或额外容量的建议(适用于AFF 系统)。</block>
@@ -359,4 +358,5 @@
   <block id="d4a184baad527c4d76864b1bd61040ed" category="sidebar">登录到BlueXP经济高效</block>
   <block id="f65eafc37ceb7865c90318dc460588b6" category="sidebar">利用BlueXP经济高效</block>
   <block id="a8cb12aeeba055d38bbada7b5b51b760" category="sidebar">BlueXP经济高效文档</block>
+  <block id="328ca69db7afb3bf526a93cf02e334f5" category="paragraph">要使用BlueXP的经济效益、应确保您的环境满足所有要求。</block>
 </blocks>
