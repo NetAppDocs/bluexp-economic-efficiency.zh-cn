@@ -152,7 +152,6 @@
   <block id="c7f5c1a75acc58c6f004efc0ce1eba09" category="list-text">*附件(可选)*：一次最多上传五个附件。</block>
   <block id="bfa80e7aaad6da353b431bff3a0e12d6" category="paragraph">每个文件的附件数限制为25 MB。支持以下文件扩展名：txt、log、pdf、jp6/jpeu、rtf、 doc/docx、xls/xlsx和csv。</block>
   <block id="baaf0e61add7d12cf8d12e023d5aef18" category="inline-image-macro">创建案例表的屏幕截图、可用于向NetApp支持部门创建案例。</block>
-  <block id="a2ff30886e1baf1e7d5045b5fc24f5b9" category="paragraph"><block ref="a2ff30886e1baf1e7d5045b5fc24f5b9" category="inline-image-macro-rx" type="image"></block></block>
   <block id="bd965e38a0c9cf27aa1bde099308e23f" category="paragraph-title">完成后</block>
   <block id="18f487556417bb6d9721a7005ae097c9" category="paragraph">此时将显示一个弹出窗口、其中包含您的支持案例编号。NetApp支持专家将审核您的案例、并尽快与您联系。</block>
   <block id="04e15da1deae9568b4dcda64fbb0c8d5" category="paragraph">有关支持案例的历史记录、您可以单击*设置&gt;时间线*并查找名为"创建支持案例"的操作。 最右侧的按钮可用于展开操作以查看详细信息。</block>
@@ -178,32 +177,23 @@
   <block id="27635a52fe4c34c39ffc6430f4244ec6" category="list-text">在*组织的案例*下、单击*查看*以查看与您的公司关联的所有案例。</block>
   <block id="059e856250b59be3069246887b74a23c" category="list-text">通过选择确切的日期范围或选择其他时间范围来修改日期范围。</block>
   <block id="dfb3764bce2548df4e06357403f9c7d0" category="inline-image-macro">案例管理页面上表上方选项的屏幕截图、可用于选择确切的日期范围或过去7天、30天或3个月。</block>
-  <block id="7fcba8aeefa9960d3fc3fa08b360ba2e" category="paragraph"><block ref="7fcba8aeefa9960d3fc3fa08b360ba2e" category="inline-image-macro-rx" type="image"></block></block>
   <block id="a1bb576be9e5a356290f231efb51b3f5" category="list-text">筛选列的内容。</block>
   <block id="3753f10a59e21f58b30e3e67d416453e" category="inline-image-macro">"状态"列中筛选选项的屏幕截图、可用于筛选与特定状态(如"活动"或"已关闭")匹配的案例。</block>
-  <block id="37709be3a43df07d5975287545d0ba12" category="paragraph"><block ref="37709be3a43df07d5975287545d0ba12" category="inline-image-macro-rx" type="image"></block></block>
   <block id="1c6ea5ef583389e18e7d7bda70beaa71" category="inline-image-macro">表中显示的加号图标</block>
-  <block id="1614dc8e47c0492434152c990d6c1040" category="list-text">通过单击更改表中显示的列 <block ref="effeab06130cddc8360822b2b706805b" category="inline-image-macro-rx" type="image"></block> 然后选择要显示的列。</block>
   <block id="370b44009f1b82d0b6b178bb80cc62fa" category="inline-image-macro">显示可在表中显示的列的屏幕截图。</block>
-  <block id="5de408d7cbad49634fb25f9047498132" category="paragraph"><block ref="5de408d7cbad49634fb25f9047498132" category="inline-image-macro-rx" type="image"></block></block>
   <block id="ad0ae9ea1f2e8d973a9a0f6bb169f494" category="inline-image-macro">包含三个点的图标、显示在表的最后一列中</block>
-  <block id="98efef1c8a47ed5791b41944e8ff4ec2" category="list-text">单击以管理现有案例 <block ref="a0b152b50a56901a75affebabc26ed61" category="inline-image-macro-rx" type="image"></block> 并选择一个可用选项：</block>
   <block id="6d9dd74e7709ef802d299966f7898f6b" category="list-text">*查看案例*：查看有关特定案例的完整详细信息。</block>
   <block id="8e6b52a532a4fbbfc98dca3ebfa5f1e6" category="list-text">*更新案例注释*：提供有关您的问题的更多详细信息、或者选择*上传文件*最多附加五个文件。</block>
   <block id="f791bc685c526af8296381acff10f6a0" category="list-text">*关闭案例*：提供关闭案例的详细信息、然后单击*关闭案例*。</block>
   <block id="e93217b2f709a398ce3c0fb753beb05f" category="inline-image-macro">屏幕截图、显示在表的最后一列中选择菜单后可以执行的操作。</block>
-  <block id="e9a5c374fb47ed2ae5cc6108fb36d829" category="paragraph"><block ref="e9a5c374fb47ed2ae5cc6108fb36d829" category="inline-image-macro-rx" type="image"></block></block>
   <block id="243263104c829e77835d632f591230d5" category="summary">在向NetApp技术支持部门创建支持案例之前、您需要向BlueXP添加一个NetApp 支持站点 帐户、然后注册获取支持。</block>
   <block id="42748df9eaa0be17ddc5cc1593cf57ab" category="doc">注册以获得支持</block>
   <block id="8bf30fadf784022b073adb9233678a71" category="paragraph">在向NetApp技术支持部门创建支持案例之前、您需要向BlueXP添加NetApp 支持站点 (NSS)帐户、然后注册获取支持。</block>
   <block id="0375f4855be072c7d856a0233cc21de9" category="section-title">支持云提供商解决方案</block>
   <block id="be845c219bb74b14349ffa6e27e7aef3" category="paragraph">有关已集成到BlueXP中的以下云提供商解决方案的技术支持、请参阅该产品的BlueXP文档中的"获得帮助"。</block>
   <block id="18cf072964a583150dd247485ba75b92" category="inline-link-macro">适用于 ONTAP 的 Amazon FSX</block>
-  <block id="5bf5309465f91318228a7f956b826348" category="list-text"><block ref="5bf5309465f91318228a7f956b826348" category="inline-link-macro-rx"></block></block>
   <block id="7450cfde7058dc5e1f7909d0280fd7ae" category="inline-link-macro">Azure NetApp Files</block>
-  <block id="0e2bc9c853e0af52ead12823c025e58b" category="list-text"><block ref="0e2bc9c853e0af52ead12823c025e58b" category="inline-link-macro-rx"></block></block>
   <block id="b0cee72642f5457a71ddd0b49efb6d93" category="inline-link-macro">适用于 Google Cloud 的 Cloud Volumes Service</block>
-  <block id="02efcbea18b9485a78a41871dce1e64d" category="list-text"><block ref="02efcbea18b9485a78a41871dce1e64d" category="inline-link-macro-rx"></block></block>
   <block id="0b0e252af8897fbe981ec6682d2aa33b" category="section-title">支持注册概述</block>
   <block id="192054ad7601240a3e8be54cc5cc548e" category="paragraph">激活支持授权有两种形式的注册：</block>
   <block id="2322ca552c2b0ebe090c8485519246a8" category="list-text">注册您的BlueXP帐户ID支持订阅(您的20位960xxxxxxxxx序列号、位于BlueXP的支持资源页面上)。</block>
@@ -226,7 +216,6 @@
   <block id="e3cd99e4aa330ae6bdfb3754d83ae962" category="list-text">如果您拥有合作伙伴或经销商帐户、则可以添加一个或多个NSS帐户、但不能将其与客户级别的帐户同时添加。</block>
   <block id="1afe19576f77bb0073c93359ed2cbb18" category="list-text">在BlueXP控制台的右上角、单击帮助图标、然后选择*支持*。</block>
   <block id="b50f0a46135bcb7083b1f2f82032fc26" category="inline-image-macro">帮助菜单的屏幕截图，其中列出的第一个选项为支持</block>
-  <block id="868d9aa88f16ea923af1d15eac5d2647" category="paragraph"><block ref="868d9aa88f16ea923af1d15eac5d2647" category="inline-image-macro-rx" type="image"></block></block>
   <block id="d17d6b5dafebab6b7659da8850737e70" category="list-text">单击 * NSS 管理 &gt; 添加 NSS 帐户 * 。</block>
   <block id="8aaf101e623c543c7eef3c65f6233366" category="list-text">出现提示时，单击 * 继续 * 以重定向到 Microsoft 登录页面。</block>
   <block id="19d089db572ee6a1e154a0c9c9e57bfd" category="paragraph">NetApp 使用 Microsoft Azure Active Directory 作为身份提供程序来提供特定于支持和许可的身份验证服务。</block>
@@ -238,8 +227,6 @@
   <block id="a04a3a5322782e8c18d0d64be7e1ccbc" category="paragraph">如果您已有客户级别的NSS帐户、并尝试添加合作伙伴级别的帐户、则也是如此。</block>
   <block id="1afe8a81cfddc9fa9559e272bb6b9496" category="list-text">成功登录后、NetApp将存储NSS用户名。</block>
   <block id="1dcb63fd55c4d22e87cb32275b8cc808" category="inline-image-macro">由三个水平点组成的图标</block>
-  <block id="452cd4df7b0d5eb1156519a2f3b0206b" category="paragraph">这是系统生成的ID、映射到您的电子邮件。在* NSS Management*页面上、您可以从显示电子邮件 <block ref="0d0843f26c0819e5369f690fefbf68b7" category="inline-image-macro-rx" type="image"></block> 菜单。</block>
-  <block id="fd02e84624a2fdfd58787131aa2820b5" category="list-text">如果您需要刷新登录凭据令牌、则中还会提供一个*更新凭据*选项 <block ref="0d0843f26c0819e5369f690fefbf68b7" category="inline-image-macro-rx" type="image"></block> 菜单。</block>
   <block id="b14d512a3c64fb5df16f6721b0603c63" category="paragraph">使用此选项将提示您重新登录。请注意、这些帐户的令牌将在90天后过期。系统将发布通知、提醒您注意这一点。</block>
   <block id="ad56c7289bc13dcf4f78c285f7f03878" category="section-title">向NetApp注册</block>
   <block id="f1bac79c2c71fbd93863b9fbd718094c" category="paragraph">如何注册NetApp支持取决于您是否已拥有NetApp 支持站点 (NSS)帐户。</block>
@@ -248,7 +235,6 @@
   <block id="25b94e7b58140f12be91fa8fd935fa59" category="list-text">如果您尚未将NSS帐户添加到BlueXP、请执行此操作。</block>
   <block id="819aff12752b7e6a1828e755c7664de7" category="list-text">在*资源*页面上、单击*注册支持*。</block>
   <block id="e8a3d9970b8fc1d92caaf33d9e116bd4" category="inline-image-macro">显示帐户序列号和注册支持选项的屏幕截图</block>
-  <block id="113f9cd7bac6f4faa6b8d58e3e099a8e" category="paragraph"><block ref="113f9cd7bac6f4faa6b8d58e3e099a8e" category="inline-image-macro-rx" type="image"></block></block>
   <block id="1ff5aefce774ec72a211f2b3bb10b950" category="section-title">现有客户、但无NSS帐户</block>
   <block id="cc1d3c161bcf25e6445c2fc771647849" category="paragraph">如果您是现有的NetApp客户、拥有现有许可证和序列号、但拥有_no_ NSS帐户、则只需创建一个NSS帐户即可。</block>
   <block id="5b2b7f628f804bcb786a097c7e45aa41" category="inline-link">NetApp 支持站点 用户注册表</block>
@@ -258,7 +244,6 @@
   <block id="e9b1f53d6cabb3394833a4e102eb6a69" category="section-title">NetApp的新品牌</block>
   <block id="c20c107d0d4eef6351660f3590324232" category="paragraph">如果您是NetApp的新客户、并且没有NSS帐户、请按照以下每个步骤进行操作。</block>
   <block id="2974170a8b1b5b4a2ac69aacd4c1c9c3" category="list-text">从支持注册页面找到您的帐户ID序列号。</block>
-  <block id="ef5e63bb6b6827440a13cc2ec7e9cf56" category="paragraph"><block ref="ef5e63bb6b6827440a13cc2ec7e9cf56" category="inline-image-macro-rx" type="image"></block></block>
   <block id="dd50e314c18933734174c1156dd9237f" category="inline-link">NetApp的支持注册站点</block>
   <block id="78f94e749b89d69dcbf3baff21ccb958" category="list-text">导航到<block ref="e1c4be66250fd76d5c52bfe2cb7daee2" category="inline-link-rx"></block> 并选择*我不是NetApp注册客户*。</block>
   <block id="d4f633ef130727b2776fa7f45024ca7d" category="list-text">填写必填字段(带有红色星号的字段)。</block>
@@ -288,14 +273,9 @@
   <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">知识和支持</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">发行说明</block>
   <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">新增功能</block>
-  <block id="7be96b4ca359bc2359930aa3a6d438b4" category="list-text">如果您需要部署BlueXP Connector、请参阅所述的BlueXP文档<block ref="f37c27b416a77e228b720482dd851ebe" category="inline-link-rx"></block>。否则、如果您已部署Connector、则不会显示用于部署此连接器的选项。</block>
-  <block id="772c39bb5555b5d35ca544c93da0583f" category="list-text">如果服务需要发现集群、请参见<block ref="6585a34a169ce9e8b8f4633a3f458722" category="inline-link-rx"></block>。否则、如果已发现集群、则不会显示用于发现集群的选项。</block>
   <block id="942a771213d3b59ba27960f61d97b1ac" category="inline-link"><block ref="942a771213d3b59ba27960f61d97b1ac" category="inline-link-rx"></block></block>
   <block id="97196dcbb301c06780e3699ce570a095" category="paragraph">对于URL、在浏览器中输入：<block ref="6db7b50bf17b27cbede9f07c4fbc973e" category="inline-link-rx"></block> 以访问BlueXP控制台。</block>
-  <block id="137f465ff17e307c6d821b8f1d37049b" category="paragraph">要登录到BlueXP、您可以使用NetApp 支持站点 凭据、也可以使用电子邮件和密码注册NetApp云登录。<block ref="83012c4a40bb3321733997744c83daa9" category="inline-link-rx"></block>。</block>
   <block id="d2dadcd80abef33f02b8317102f819f0" category="list-text">打开Web浏览器并转到<block ref="4d9841a08a6f1c082f5ba73c5d87fcc1" category="inline-link-rx"></block>。</block>
-  <block id="32ed92d70b140ee92a015de26f8ca076" category="paragraph">要在使用此服务之前在BlueXP中创建Connector、请参阅所述的BlueXP文档<block ref="3be6fdd970ee3d2f07a043a29363ec05" category="inline-link-rx"></block>。</block>
-  <block id="d537b3bbd8539d0832f2526fedeaa9c0" category="paragraph">有关使用此服务之前的说明、请参见<block ref="6585a34a169ce9e8b8f4633a3f458722" category="inline-link-rx"></block>。</block>
   <block id="fbd53e396987285cf235247a34844e9e" category="summary">如果您的集群当前低于或预测低于70%容量的阈值、经济高效服务会将这些资源标识为低容量资源并向您发出警报。</block>
   <block id="a53148ee8712975fc57be46589bc8da7" category="summary">经济高效服务可根据预测的数据增长为AFF 系统提供建议。您可以接受预测或输入自己的预测。在此基础上、该服务会提供一些建议、以满足容量增长预测并最适合资产配置。</block>
   <block id="d171b7e73c5f2dfd5aa6af3cf856c062" category="summary">NetApp BlueXP经济效率容量规划服务使用AI预测数据增长、以帮助规划过程。</block>
@@ -306,7 +286,6 @@
   <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
   <block id="69b085a23d3ed85c84455b9288792bf2" category="inline-link">BlueXP快速入门</block>
   <block id="45e7f38a8238b36c23e85bbe6436ba0b" category="inline-link">BlueXP网络信息</block>
-  <block id="ab38a54ae4da8a4cab463c7bb64ef70a" category="paragraph">请参见<block ref="4b1866f17dc6bd66f88d9d6839084df6" category="inline-link-rx"></block> 和<block ref="8b2e3c99c244ff11d22f3c561bd167b2" category="inline-link-rx"></block>。</block>
   <block id="6a38b1e28c18e6b4edeb4e7b0818a2d7" category="list-text">确定环境中容量较低的存储资产。</block>
   <block id="f0a161f3ab72e29c18f1f08d5d13b96c" category="list-text">查看资产的当前容量和预测容量。</block>
   <block id="eccbf2d005133654fdaff166311ce0c9" category="summary">容量规划对于避免因系统容量低而造成不必要的停机至关重要。BlueXP经济高效功能可帮助您确定容量不足的集群、查看集群的当前容量和预测容量、以及查看CPU利用率、IOPS性能和延迟性能、以确定进行容量修复的机会。</block>
@@ -340,13 +319,10 @@
   <block id="20d6f49b527c941ea400d33bec3ddfdc" category="paragraph">BlueXP经济高效功能可根据预测的数据增长为AFF 系统提供建议。您可以接受预测或输入自己的预测。在此基础上、该服务会提供一些建议、以满足容量增长预测并最适合资产配置。</block>
   <block id="cee6750d0d4e5f1ebf12ff5962c2cc05" category="paragraph">容量规划包括确定环境中的低容量区域、包括当前和预测的区域。BlueXP经济高效利用AI预测数据增长、以帮助规划过程。经济高效服务可确定您环境中的低容量区域、并提供解决问题的方法建议。</block>
   <block id="15ff24e1dff620c1df51b9d6cb48a073" category="paragraph">利用BlueXP的经济效益、您可以实现以下目标：</block>
-  <block id="2b787d5a3ddc4d29ecaec24185257f94" category="summary">BlueXP经济效率服务可根据预测的数据增长提供建议。您可以接受预测或输入自己的预测。在此基础上、该服务会提供一些建议、以满足预计的容量增长需求、并最适合资产配置。其中一项建议可能是将冷数据分层到云存储以释放容量。此建议将启动与另一个BlueXP服务NetApp Cloud Tiering的连接。</block>
-  <block id="ea29270a68ffb033810e16bff4b5fd66" category="paragraph">BlueXP经济高效功能可根据预测的数据增长提供建议。您可以接受预测或输入自己的预测。在此基础上、该服务会提供一些建议、以满足预计的容量增长需求、并最适合存储资产配置。其中一项建议可能是将冷数据分层到云存储以释放容量。此建议将启动与另一个BlueXP服务NetApp BlueXP分层(Cloud Tiering、Cloud Tiering)的连接。</block>
   <block id="f43a34ab4337c16e506bc4b4470f2e5a" category="paragraph">然后、您可以对数据进行分层、轻松恢复到BlueXP的经济效益、以便对其他系统执行操作。</block>
   <block id="b77b8d53b8f9ad06ff4f1c4f66ce0810" category="paragraph">BlueXP经济高效可启动与BlueXP层服务的连接。</block>
   <block id="6fbd69f2466455027f39d7ed05855812" category="paragraph">部署Connector后、BlueXP分层会发现集群(如果尚未发现)。</block>
   <block id="94cbb43a5cde5c6df8693b056bc08139" category="inline-link">XP Bluetiering文档</block>
-  <block id="5b4267b046db5f03341b553b4e3771d1" category="paragraph">有关分层的详细信息、请参见<block ref="8eeb1fb0bf24f398f46bcf8e1cd7fe0b" category="inline-link-rx"></block>。</block>
   <block id="b65cfef4d4fde75189a1e74b65a77ec0" category="paragraph">如果您环境中的存储资产当前低于或预计低于90%容量的阈值、则经济高效服务会将这些资产标识为低容量资源并向您发出警报。此外、经济高效服务还会提供有关您是对数据进行分层还是获取额外容量的建议。</block>
   <block id="91c71bf1224b1e14a6c1f681b8177e35" category="inline-link-macro">正在添加容量</block>
   <block id="d9883c7f55a9f89fbe625003d35013d9" category="list-text">*添加容量*：继续 <block ref="da789fd2f6c7c3e80b54e962404e89e8" category="inline-link-macro-rx"></block>。</block>
@@ -359,4 +335,28 @@
   <block id="f65eafc37ceb7865c90318dc460588b6" category="sidebar">利用BlueXP经济高效</block>
   <block id="a8cb12aeeba055d38bbada7b5b51b760" category="sidebar">BlueXP经济高效文档</block>
   <block id="328ca69db7afb3bf526a93cf02e334f5" category="paragraph">要使用BlueXP的经济效益、应确保您的环境满足所有要求。</block>
+  <block id="d4f1e4e7a0c404e8cf707bde6c89b99e" category="paragraph">要在使用此服务之前在BlueXP中创建Connector、请参阅所述的BlueXP文档<block ref="ce3b8a85a3441e001ec3d611abbf0d00" category="inline-link-rx"></block>。</block>
+  <block id="78b9dc0d793f8cef6a2fed7ea247da03" category="paragraph">有关使用此服务之前的说明、请参见<block ref="8cab2f9c49f209aeaa6ba3d7ce4342f6" category="inline-link-rx"></block>。</block>
+  <block id="7d7127ef879a78562b832b07e0467e4d" category="paragraph">请参见<block ref="dbb33dbf9eb2131f5e9c130f8d43d40b" category="inline-link-rx"></block> 和<block ref="80109aba99cda75e73f8aee37e8d3028" category="inline-link-rx"></block>。</block>
+  <block id="1761f86051ec9114ac2cb5961c8605d7" category="paragraph">要登录到BlueXP、您可以使用NetApp 支持站点 凭据、也可以使用电子邮件和密码注册NetApp云登录。<block ref="192dac3a1352f6134fa7409c0b073570" category="inline-link-rx"></block>。</block>
+  <block id="9d06990508d25d367d9158c6558eb9c8" category="list-text"><block ref="9d06990508d25d367d9158c6558eb9c8" category="inline-link-macro-rx"></block></block>
+  <block id="2e0c742f4616eb27b5b7646aa790edfe" category="list-text"><block ref="2e0c742f4616eb27b5b7646aa790edfe" category="inline-link-macro-rx"></block></block>
+  <block id="cf14bff66a8b72d3675db8ffe0f02ee3" category="list-text"><block ref="cf14bff66a8b72d3675db8ffe0f02ee3" category="inline-link-macro-rx"></block></block>
+  <block id="e8d4092baef6680c6a35d5228ae31de2" category="paragraph"><block ref="e8d4092baef6680c6a35d5228ae31de2" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="0dfcbbbe02d3e96f8ad78782e8772587" category="paragraph">这是系统生成的ID、映射到您的电子邮件。在* NSS Management*页面上、您可以从显示电子邮件 <block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> 菜单。</block>
+  <block id="fc79de85a483938f72fbcb9822ec0ae3" category="list-text">如果您需要刷新登录凭据令牌、则中还会提供一个*更新凭据*选项 <block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> 菜单。</block>
+  <block id="1bb5620ed3998fd776980cad36e22c9a" category="paragraph"><block ref="1bb5620ed3998fd776980cad36e22c9a" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="379f9cd57d97013f3f7fdd24f692a0b1" category="paragraph"><block ref="379f9cd57d97013f3f7fdd24f692a0b1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="509259be6d5e15d8959f705cbe0cbcc1" category="paragraph"><block ref="509259be6d5e15d8959f705cbe0cbcc1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="0972db30d942fdb65d1732e6e84bde99" category="paragraph"><block ref="0972db30d942fdb65d1732e6e84bde99" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="cb6a777dd3c6e43b0dc441d38519d219" category="paragraph"><block ref="cb6a777dd3c6e43b0dc441d38519d219" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="0f6cac2f77150840994f84044fc1b12b" category="list-text">通过单击更改表中显示的列 <block ref="b574dd55d604ddb721d869a0fc302007" category="inline-image-macro-rx" type="image"></block> 然后选择要显示的列。</block>
+  <block id="e65065c4fd326b9f3a1eeb9453c30d73" category="paragraph"><block ref="e65065c4fd326b9f3a1eeb9453c30d73" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="6ba7d68d8b3ef0f3398afb9d3ea96172" category="list-text">单击以管理现有案例 <block ref="566c029d89e7d5421080767a37bf443e" category="inline-image-macro-rx" type="image"></block> 并选择一个可用选项：</block>
+  <block id="2ea260929e27ffcb623c8aa35689bd18" category="paragraph"><block ref="2ea260929e27ffcb623c8aa35689bd18" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="0d2590690be6a91eed09f3348f749f90" category="summary">BlueXP经济效率服务可根据预测的数据增长提供建议。您可以接受预测或输入自己的预测。在此基础上、该服务会提供一些建议、以满足预计的容量增长需求、并最适合资产配置。其中一项建议可能是将冷数据分层到云存储以释放容量。此建议将启动与另一个BlueXP服务BlueXP分层的连接。</block>
+  <block id="f1dab53f3ff5a870c1f42bc80b1d6ede" category="paragraph">BlueXP经济高效功能可根据预测的数据增长提供建议。您可以接受预测或输入自己的预测。在此基础上、该服务会提供一些建议、以满足预计的容量增长需求、并最适合存储资产配置。其中一项建议可能是将冷数据分层到云存储以释放容量。此建议将启动与NetApp BlueXP分层(另一个BlueXP服务)的连接。</block>
+  <block id="3c52e2340ca9c74b4bec9c4eef1ed3aa" category="list-text">如果您需要部署BlueXP Connector、请参阅所述的BlueXP文档<block ref="42c6937b4eb668f4de60cd98642d93c2" category="inline-link-rx"></block>。否则、如果您已部署Connector、则不会显示用于部署此连接器的选项。</block>
+  <block id="3d8b27727e14c7d5bb4b8557d9b4533b" category="list-text">如果服务需要发现集群、请参见<block ref="8cab2f9c49f209aeaa6ba3d7ce4342f6" category="inline-link-rx"></block>。否则、如果已发现集群、则不会显示用于发现集群的选项。</block>
+  <block id="ef1a15116a22f7e17197730844bfceeb" category="paragraph">有关分层的详细信息、请参见<block ref="b91b629813e35033dc0c12a55f7d1874" category="inline-link-rx"></block>。</block>
 </blocks>
