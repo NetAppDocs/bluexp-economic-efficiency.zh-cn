@@ -16,19 +16,19 @@ summary: 通过几个步骤开始使用NetApp BlueXP经济效率服务。
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-1.png["一个"] 查看前提条件
 [role="quick-margin-para"]
-link:../get-started/prerequisites.html["确保您的环境满足这些要求"^]。
+link:../get-started/prerequisites.html["确保您的环境满足这些要求"]。
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-2.png["两个"] 设置经济高效服务
 [role="quick-margin-para"]
-link:../get-started/capacity-setup.html["完成设置服务的步骤"^]。
+link:../get-started/capacity-setup.html["完成设置服务的步骤"]。
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-3.png["三个"] 下一步是什么？
 [role="quick-margin-para"]
 设置服务后、接下来可以执行以下操作。
 
 [role="quick-margin-list"]
-* link:../use/capacity-review-status.html["查看容量规划状态"^]。
-* link:../use/capacity-add.html["添加容量"^]。
-* link:../use/capacity-tier-data.html["将冷数据分层到云存储以释放存储空间"^]。
-* link:../use/capacity-reminders.html["或者、也可以设置提醒以再次检查"^]。
+* link:../use/capacity-review-status.html["查看容量规划状态"]。
+* link:../use/capacity-add.html["添加容量"]。
+* link:../use/capacity-tier-data.html["将冷数据分层到云存储以释放存储空间"]。
+* link:../use/capacity-reminders.html["或者、也可以设置提醒以再次检查"]。
 
