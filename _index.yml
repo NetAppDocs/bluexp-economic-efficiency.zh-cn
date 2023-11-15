@@ -18,6 +18,8 @@ indexpage:
       url: "/get-started/faq.html"
   - title: 利用BlueXP经济高效
     links:
+    - title: 获取技术更新评估
+      url: "/use/tech-refresh.html"
     - title: 查看并修复容量问题
       url: "/use/capacity-remediate-overview.html"
     - title: 查看容量状态
