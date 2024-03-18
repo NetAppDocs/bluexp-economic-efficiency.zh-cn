@@ -1,6 +1,10 @@
 ---
 indexpage:
-  lead: 容量规划对于避免因系统容量低而造成不必要的停机至关重要。BlueXP经济高效功能可帮助您确定容量不足的集群、查看集群的当前容量和预测容量、以及查看CPU利用率、IOPS性能和延迟性能、以确定进行容量修复的机会。
+  title: BlueXP经济效率文档
+  summary: BlueXP经济高效服务可识别当前容量或预测容量较低的集群、并为您提供有关数据分层或额外容量的建议(适用于AFF 系统)。此外、该服务还会针对即将停产的系统提供技术更新建议。
+  keywords: technology refresh, tech refresh, AFF, capacity, economic efficiency,
+    bluexp, data tier, hardware end of life
+  lead: BlueXP经济高效服务可识别当前容量或预测容量较低的集群、并为您提供有关数据分层或额外容量的建议(适用于AFF 系统)。此外、该服务还会针对即将停产的系统提供技术更新建议。
   tiles:
   - title: 入门
     links:
