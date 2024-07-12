@@ -69,7 +69,6 @@
   <block id="10492389e94efdebbb66f7b0cd8a1324" category="list-text">选择 * 保存 * 。</block>
   <block id="8eea62084ca7e541d918e823422bd82e" category="paragraph-title">结果</block>
   <block id="49888fcfedf40834e6baa46c3569b5b4" category="paragraph">经过这段时间后、风险将再次显示在风险列表中。</block>
-  <block id="84804abf3404a430e85ae3299587a6b0" category="paragraph">首先验证您的操作环境、登录、网络访问和Web浏览器是否就绪。</block>
   <block id="3bb4638459c9fa17eee7502169bd253e" category="list-text">您的环境必须满足所有BlueXP要求、包括通过Web浏览器进行登录和网络访问。</block>
   <block id="a3538d61b66c68f21178c789ab57dc45" category="list-text">您需要拥有集群的访问凭据。</block>
   <block id="04346ae081b15c5b07fe9620a0a0fae7" category="list-text">虽然这不是一项要求、但如果部署并启用了BlueXP连接器、并且发现了ONTAP 系统、则会很有帮助。如果没有、服务将指导您完成这些过程。</block>
@@ -251,7 +250,6 @@
   <block id="2aac28c0e66ef23b3e92b337139061df" category="doc">有关BlueXP经济效率的常见问题</block>
   <block id="722e45d4312069bddbd843c7cfde4d62" category="section-title">获得BlueXP的经济效益</block>
   <block id="13d1effb4b36d6b3478f0737f984f459" category="paragraph">*您是否需要许可证才能使用BlueXP的经济效益？*</block>
-  <block id="ae0e6a9591b0ba940ca472563fff152d" category="summary">BlueXP经济高效功能可识别当前或预测的低容量资产、并提供有关数据分层或额外容量的建议(适用于AFF 系统)。</block>
   <block id="c24b642feb1fabfe18bbee711c803f24" category="paragraph">了解BlueXP经济高效方面的新增功能。</block>
   <block id="35c28a4f1250fc5c59dd5bfa5d9993ce" category="paragraph">全新的BlueXP经济高效服务可识别当前或预测的低容量存储资产、并为内部AFF 系统提供数据层或额外容量建议。</block>
   <block id="345d0e0aeae5ae7cbf8cdd1fc138e5e6" category="inline-link-macro">详细了解BlueXP的经济效益</block>
@@ -475,4 +473,5 @@
   <block id="9087f29454392d1114832868ba710775" category="paragraph">您可以通过BlueXP经济效率(*监管*&gt;*经济效率*&gt;*技术更新*)或NetApp数字顾问(*信息板*&gt;*规划小工具*&gt;*技术更新*)访问此功能。</block>
   <block id="72bf780976830d013719cb205b31d39b" category="sidebar">BlueXP经济效率文档</block>
   <block id="3d8fb7c37ddf3912bdf3208d101382d5" category="sidebar">评估技术更新</block>
+  <block id="7a2298e2cd5eafe22539462b05dbe38c" category="paragraph">首先验证您的操作环境、登录和网络访问是否就绪。</block>
 </blocks>

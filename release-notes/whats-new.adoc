@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: release-notes/whats-new.html 
 keywords: economic efficiency faq, bluexp, economic efficiency frequently asked questions 
-summary: 'BlueXP经济高效功能可识别当前或预测的低容量资产、并提供有关数据分层或额外容量的建议(适用于AFF 系统)。' 
+summary: 'BlueXP经济高效服务可识别当前容量或预测容量较低的集群、并为您提供有关数据分层或额外容量的建议(适用于AFF 系统)。此外、该服务还会针对即将停产的系统提供技术更新建议。' 
 ---
 = 新增功能
 :hardbreaks:
