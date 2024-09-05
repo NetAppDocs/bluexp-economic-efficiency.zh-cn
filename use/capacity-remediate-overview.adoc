@@ -12,12 +12,11 @@ summary: NetApp BlueXP经济效率容量规划服务使用AI预测数据增长�
 
 
 [role="lead"]
-容量规划包括确定环境中的低容量区域、包括当前和预测的区域。BlueXP经济高效利用AI预测数据增长、以帮助规划过程。经济高效服务可确定您环境中的低容量区域、并提供解决问题的方法建议。
+容量规划包括确定环境中的低容量区域、包括当前和预测的区域。BlueXP经济高效利用AI预测数据增长、以帮助规划过程。经济高效服务可确定您环境中的低容量领域。
 
 利用BlueXP的经济效益、您可以实现以下目标：
 
 * link:../use/capacity-review-status.html["查看容量规划状态"]
-* link:../use/capacity-add.html["添加容量"]
 * link:../use/capacity-tier-data.html["将冷数据分层到云存储并释放存储空间"]
 * link:../use/capacity-reminders.html["选择no action并设置提醒以再次检查"]
 

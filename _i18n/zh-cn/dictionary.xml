@@ -16,9 +16,6 @@
   <block id="419f3742e6de8e0ec4b22cce005e7630" category="list-text">平台</block>
   <block id="47e9bbb6c6753120f1dd00ed48d96e49" category="list-text">资产所在的国家/地区</block>
   <block id="0df07e1f7ae3afc987ed03150806ffab" category="list-text">按月显示当前容量和预测容量</block>
-  <block id="a513bb90ec1f77a332a7def969448b65" category="list-text">容量利用率和百分比</block>
-  <block id="d94ea82b5ee3ae0f84fea0c15f897121" category="list-text">延迟趋势</block>
-  <block id="0b01356b625dcd69b61907497fa47842" category="list-text">IOPS趋势</block>
   <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">步骤</block>
   <block id="fbb1f938c9f1ccb40c31c54f15fc89ea" category="list-text">从BlueXP左侧导航栏中、选择*监管*&gt;*经济效率*&gt;*容量规划*。</block>
   <block id="516d28f53c7dff8d7f269aaa4d14b40e" category="list-text">为资产选择*评估存储选项*。</block>
@@ -45,7 +42,6 @@
   <block id="9f5f33b1411cb7c6db0f15c4c16a6ab2" category="list-text">查看容量规划状态页面上的状态。</block>
   <block id="55d23e178d63a7dfa5b590a6cfdc18fb" category="doc">查看并修复容量问题</block>
   <block id="2aeee6306a492b96e1d8d773a16fa4ee" category="list-text"><block ref="2aeee6306a492b96e1d8d773a16fa4ee" category="inline-link-macro-rx"></block></block>
-  <block id="2ca27275f5817357f9b49fd4c102cd3c" category="list-text"><block ref="2ca27275f5817357f9b49fd4c102cd3c" category="inline-link-macro-rx"></block></block>
   <block id="80b117d13aeb1c0337cca44c4f432522" category="inline-link-macro">将冷数据分层到云存储并释放存储空间</block>
   <block id="6cb6b275b6a21c610984fdd0576d0985" category="list-text"><block ref="6cb6b275b6a21c610984fdd0576d0985" category="inline-link-macro-rx"></block></block>
   <block id="05540742fefd5843712472ea58001fdc" category="inline-link-macro">选择no action并设置提醒以再次检查</block>
@@ -82,8 +78,6 @@
   <block id="fb35cdd7029fec15aadbdddd879fa161" category="paragraph-title"><block ref="05b2444faffd66d76e88602ea7dd353f" category="inline-image-macro-rx" type="image"></block> 下一步是什么？</block>
   <block id="3cf1c3e32dc7a64121e7f0ffa91d5c26" category="inline-link-macro">将冷数据分层到云存储以释放存储空间</block>
   <block id="9da433a276b8c58aa7c1c0c04ac7063c" category="inline-link-macro">或者、也可以设置提醒以再次检查</block>
-  <block id="3206da35a6da359e9140e8c4b0bc7c85" category="list-text">查看CPU利用率、IOPS性能和延迟性能以确定容量修复的机会。</block>
-  <block id="6ebfa87b6f7144251026e89d7ce188ca" category="list-text">提供了一个获取额外容量的简单过程</block>
   <block id="757f36865bb189e37e6988545be631ca" category="list-text">减少规划额外存储所需的时间</block>
   <block id="20b4f77bd00b4f63a49ec8e08f3bf6a6" category="section-title">成本</block>
   <block id="b1151aae9531d2f5e85d085e8878cea6" category="summary">如果您只是想快速了解问题解答，此常见问题解答会很有帮助。</block>
@@ -255,15 +249,11 @@
   <block id="345d0e0aeae5ae7cbf8cdd1fc138e5e6" category="inline-link-macro">详细了解BlueXP的经济效益</block>
   <block id="838d01d8bf08e23ff670a400ad2cb368" category="paragraph"><block ref="c4b58b1c24fbcd13ec6df8ee9e6c3a23" category="inline-link-macro-rx"></block>。</block>
   <block id="20d6f49b527c941ea400d33bec3ddfdc" category="paragraph">BlueXP经济高效功能可根据预测的数据增长为AFF 系统提供建议。您可以接受预测或输入自己的预测。在此基础上、该服务会提供一些建议、以满足容量增长预测并最适合资产配置。</block>
-  <block id="cee6750d0d4e5f1ebf12ff5962c2cc05" category="paragraph">容量规划包括确定环境中的低容量区域、包括当前和预测的区域。BlueXP经济高效利用AI预测数据增长、以帮助规划过程。经济高效服务可确定您环境中的低容量区域、并提供解决问题的方法建议。</block>
   <block id="15ff24e1dff620c1df51b9d6cb48a073" category="paragraph">利用BlueXP的经济效益、您可以实现以下目标：</block>
   <block id="f43a34ab4337c16e506bc4b4470f2e5a" category="paragraph">然后、您可以对数据进行分层、轻松恢复到BlueXP的经济效益、以便对其他系统执行操作。</block>
   <block id="b77b8d53b8f9ad06ff4f1c4f66ce0810" category="paragraph">BlueXP经济高效可启动与BlueXP层服务的连接。</block>
   <block id="6fbd69f2466455027f39d7ed05855812" category="paragraph">部署Connector后、BlueXP分层会发现集群(如果尚未发现)。</block>
   <block id="94cbb43a5cde5c6df8693b056bc08139" category="inline-link">XP Bluetiering文档</block>
-  <block id="b65cfef4d4fde75189a1e74b65a77ec0" category="paragraph">如果您环境中的存储资产当前低于或预计低于90%容量的阈值、则经济高效服务会将这些资产标识为低容量资源并向您发出警报。此外、经济高效服务还会提供有关您是对数据进行分层还是获取额外容量的建议。</block>
-  <block id="91c71bf1224b1e14a6c1f681b8177e35" category="inline-link-macro">正在添加容量</block>
-  <block id="d9883c7f55a9f89fbe625003d35013d9" category="list-text">*添加容量*：继续 <block ref="da789fd2f6c7c3e80b54e962404e89e8" category="inline-link-macro-rx"></block>。</block>
   <block id="9d9adc1e6779b1d49c9746d8b1715ad4" category="inline-link-macro">将冷数据层到云存储并释放存储空间</block>
   <block id="47141754b699410733fa9410d0da24bd" category="list-text">*分层冷数据*：继续 <block ref="e76e1661c872ce87a3a0c42e10da0c33" category="inline-link-macro-rx"></block>。</block>
   <block id="7da2d43820b3b6996f9bf72d06cd62d2" category="inline-link-macro">选择不执行任何操作并设置提醒以再次检查</block>
@@ -336,7 +326,6 @@
   <block id="717a5758b6ab4bcbf7dd110d67315d1b" category="paragraph"><block ref="5f2949df55f5fd88f90867ab8210f71d" category="inline-link-macro-rx"></block>。</block>
   <block id="be853e8f5a0091adcfb21a1dafa0fc4a" category="paragraph"><block ref="0b83f5a55495fa74f844e7f5daa12fe1" category="inline-link-macro-rx"></block>。</block>
   <block id="4aaa8f0f410953c6f2e2f8ee21235446" category="list-text"><block ref="2aeee6306a492b96e1d8d773a16fa4ee" category="inline-link-macro-rx"></block>。</block>
-  <block id="1bedf24429b0b6c53a392bfed0382203" category="list-text"><block ref="2ca27275f5817357f9b49fd4c102cd3c" category="inline-link-macro-rx"></block>。</block>
   <block id="c59444289b7d5b170f883b78f647a7ac" category="list-text"><block ref="36a4912d0b5387943c5830e2f89a1f51" category="inline-link-macro-rx"></block>。</block>
   <block id="03081baab00ef591d64608f4a8b78847" category="list-text"><block ref="0a845851e887b09bb34d062ef8693aa3" category="inline-link-macro-rx"></block>。</block>
   <block id="52009bb7ee17227f566cd26a02caee56" category="inline-link-macro"><block ref="52009bb7ee17227f566cd26a02caee56" category="inline-link-rx"></block></block>
@@ -353,15 +342,8 @@
   <block id="f6185bb12f5e53c800be8cda7fbca65b" category="paragraph">有关与云提供商文件服务、其基础架构或使用该服务的任何解决方案相关的技术支持、请参阅该产品的BlueXP文档中的"获得帮助"。</block>
   <block id="3880ae5df9fdc4d0fc4a6d00a2239530" category="paragraph">要获得针对BlueXP及其存储解决方案和服务的技术支持、请使用下面所述的支持选项。</block>
   <block id="e5871941005696021ad600fa37da85f1" category="summary">BlueXP经济高效服务可识别当前容量或预测容量较低的集群、并为您提供有关数据分层或额外容量的建议(适用于AFF 系统)。此外、该服务还会针对即将停产的系统提供技术更新建议。</block>
-  <block id="04d4502244c1b78fc398e2ab854757d1" category="paragraph">BlueXP经济高效可评估环境的两个重要方面：当前容量或预测容量较低的存储资产以及即将停产的系统。该服务可根据您的业务需求提供有关数据分层或额外容量(适用于AFF系统)以及技术更新选项的建议。</block>
   <block id="c5eed8523c59be7e7055502368d7c8c9" category="paragraph">BlueXP经济高效可帮助您实现以下目标。</block>
   <block id="9875b19dee665bb875b719b9e9ae8af9" category="paragraph">*容量规划*</block>
-  <block id="a75c21b3028c89c7a9ba2ea318233515" category="list-text">获取与您的环境相关的容量扩展建议。</block>
-  <block id="b4b8b4721f6971106929030c2ebeed9e" category="paragraph">BlueXP经济高效容量规划仅限适用场景内部AFF系统(包括统一AFF和所有SAN阵列系统)。</block>
-  <block id="b8f192587f9fb6aabeab974d20b80bb3" category="list-text">查看即将停产或即将发生其他生命周期事件的系统列表。</block>
-  <block id="9d32ad95cd61231af88e0c366f0ded5f" category="list-text">查看对您当前工作环境的评估、并获取有关符合您的工作负载、容量、性能和预算要求的技术更新选项的建议。</block>
-  <block id="c75d78ac539015a339e4aa9720ca729e" category="inline-image-macro">BlueXP经济效益中的技术更新流程示意图</block>
-  <block id="c814cc88c080268f66afab5af1deb9d4" category="paragraph"><block ref="c814cc88c080268f66afab5af1deb9d4" category="inline-image-macro-rx" type="image"></block></block>
   <block id="f9b5dc1a48c8d1f1da2b13f28761e9a9" category="list-text">提供值得信赖的顾问建议、帮助您解决环境中的容量问题</block>
   <block id="18720152dc5c7d0c9fdd39d12dc9d74b" category="paragraph">NetApp不会向您收取使用此服务的费用。</block>
   <block id="e7d9dc0e5ecd2442c7c315db9ddb0fa8" category="paragraph">如果您决定将冷数据分层到云存储、则需要向云提供商咨询适用的费用。</block>
@@ -464,14 +446,17 @@
   <block id="7aea075f0d949c2526cea755a2dee13f" category="paragraph">以前、您只能对资产进行评估、并确定是否建议进行技术更新。</block>
   <block id="8006e6282233bdaa99ca3e9db65fc693" category="paragraph">此功能现在是左侧导航栏中技术更新选项的一部分。</block>
   <block id="914b4ad9ada7977f36d427a9664a4235" category="paragraph">详细了解 <block ref="4305c0855ed1712385868c1ca4414cc5" category="inline-link-macro-rx"></block>。</block>
-  <block id="125b544edea581d53f2d48e24eca22a1" category="inline-link-macro">进行技术更新评估或在新硬件上模拟工作负载</block>
-  <block id="cfdddd9fdda3a6c9edb8d92e163f706e" category="list-text"><block ref="85216510d035cb29818c638561cda6b0" category="inline-link-macro-rx"></block>。</block>
-  <block id="e581a5d8d5f03d5e44c9b34c7a287331" category="paragraph">*技术更新评估和模拟*</block>
-  <block id="ab59f1058d018fe7c2ab12c567b827c5" category="list-text">在新硬件上模拟工作负载并下载结果。</block>
-  <block id="c010d313c84aa7576715aeca465e02ba" category="list-text">通过进行简短评估或在新硬件上执行工作负载模拟、确定即将发生生命周期事件的系统、以帮助您规划技术更新</block>
   <block id="bf733d8a933c1601697f364223fc7ecb" category="section-title">访问</block>
   <block id="9087f29454392d1114832868ba710775" category="paragraph">您可以通过BlueXP经济效率(*监管*&gt;*经济效率*&gt;*技术更新*)或NetApp数字顾问(*信息板*&gt;*规划小工具*&gt;*技术更新*)访问此功能。</block>
   <block id="72bf780976830d013719cb205b31d39b" category="sidebar">BlueXP经济效率文档</block>
-  <block id="3d8fb7c37ddf3912bdf3208d101382d5" category="sidebar">评估技术更新</block>
   <block id="7a2298e2cd5eafe22539462b05dbe38c" category="paragraph">首先验证您的操作环境、登录和网络访问是否就绪。</block>
+  <block id="f5b4f15fd06d9943704f9df6285311a4" category="summary">BlueXP  经济高效服务可识别当前容量或预测容量较低的集群、并为您提供有关数据层的建议。</block>
+  <block id="6d6792b7c7f14e72a5b07b04908704a4" category="paragraph">BlueXP  经济高效功能可根据当前或预测的低容量评估您的存储资产。该服务可根据您的业务需求提供有关数据层选项的建议。</block>
+  <block id="9e352447a1c5e46200808eb84d9a862a" category="list-text">识别即将发生生命周期事件的系统、帮助您规划技术更新</block>
+  <block id="93716955add4f66b2af685a33bac4789" category="section-title">2024年5月15日</block>
+  <block id="ec6210d470db7cd7b6f5408f088e1c02" category="paragraph">BlueXP  的一些经济效益功能已暂时禁用：</block>
+  <block id="d519fe60b31330425fdb5e1c21309f78" category="list-text">技术更新</block>
+  <block id="89d8cfe0f753f155042a3418a0642e61" category="paragraph">容量规划包括确定环境中的低容量区域、包括当前和预测的区域。BlueXP经济高效利用AI预测数据增长、以帮助规划过程。经济高效服务可确定您环境中的低容量领域。</block>
+  <block id="6c83324e1acde7f85b7376ff1f8a5b28" category="paragraph">如果您环境中的存储资产当前低于或预计低于90%容量的阈值、则经济高效服务会将这些资产标识为低容量资源并向您发出警报。此外、经济高效服务还会提供有关是否应对数据进行分层的建议。</block>
+  <block id="b9f54dff8d8edfb26e5f92442e93c115" category="list-text">*最佳实践*：单击链接继续查看最佳实践。</block>
 </blocks>

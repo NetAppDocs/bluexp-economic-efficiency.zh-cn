@@ -2,14 +2,10 @@
 section: use
 title: 利用BlueXP经济高效
 entries:
-- title: 评估技术更新
-  url: "/use/tech-refresh.html"
 - title: 查看并修复容量问题
   url: "/use/capacity-remediate-overview.html"
 - title: 查看容量状态
   url: "/use/capacity-review-status.html"
-- title: 添加容量
-  url: "/use/capacity-add.html"
 - title: 将冷数据分层到云存储
   url: "/use/capacity-tier-data.html"
 - title: 设置提醒以重新检查

@@ -1,10 +1,10 @@
 ---
 indexpage:
   title: BlueXP经济效率文档
-  summary: BlueXP经济高效服务可识别当前容量或预测容量较低的集群、并为您提供有关数据分层或额外容量的建议(适用于AFF 系统)。此外、该服务还会针对即将停产的系统提供技术更新建议。
+  summary: BlueXP  经济高效服务可识别当前容量或预测容量较低的集群、并为您提供有关数据层的建议。
   keywords: technology refresh, tech refresh, AFF, capacity, economic efficiency,
     bluexp, data tier, hardware end of life
-  lead: BlueXP经济高效服务可识别当前容量或预测容量较低的集群、并为您提供有关数据分层或额外容量的建议(适用于AFF 系统)。此外、该服务还会针对即将停产的系统提供技术更新建议。
+  lead: BlueXP  经济高效服务可识别当前容量或预测容量较低的集群、并为您提供有关数据层的建议。
   tiles:
   - title: 入门
     links:
