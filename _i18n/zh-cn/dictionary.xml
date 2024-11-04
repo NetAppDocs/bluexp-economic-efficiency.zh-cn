@@ -435,7 +435,6 @@
   <block id="10fa032662780ff6f01bd6647d92c626" category="paragraph">您还可以添加工作负载并从模拟中排除现有工作负载。</block>
   <block id="7aea075f0d949c2526cea755a2dee13f" category="paragraph">以前、您只能对资产进行评估、并确定是否建议进行技术更新。</block>
   <block id="8006e6282233bdaa99ca3e9db65fc693" category="paragraph">此功能现在是左侧导航栏中技术更新选项的一部分。</block>
-  <block id="914b4ad9ada7977f36d427a9664a4235" category="paragraph">详细了解 <block ref="4305c0855ed1712385868c1ca4414cc5" category="inline-link-macro-rx"></block>。</block>
   <block id="bf733d8a933c1601697f364223fc7ecb" category="section-title">访问</block>
   <block id="9087f29454392d1114832868ba710775" category="paragraph">您可以通过BlueXP经济效率(*监管*&gt;*经济效率*&gt;*技术更新*)或NetApp数字顾问(*信息板*&gt;*规划小工具*&gt;*技术更新*)访问此功能。</block>
   <block id="72bf780976830d013719cb205b31d39b" category="sidebar">BlueXP经济效率文档</block>
@@ -459,4 +458,8 @@
   <block id="0ca08a23718c0a91743dd6c0146ca353" category="paragraph">要为Cloud Volumes ONTAP启用以下关键工作流、需要将NetApp支持站点凭据与您的BlueXP  组织相关联：</block>
   <block id="c81c8e01f5d906ae1ab0c5c606f06b05" category="paragraph">将NSS凭据与您的BlueXP  组织相关联与与与BlueXP  用户登录相关联的NSS帐户不同。</block>
   <block id="8166996cb4a59c147200d89a061bb49c" category="paragraph">这些NSS凭据与您的特定BlueXP  组织ID相关联。属于BlueXP  组织的用户可以从*Support &gt; NSS Management*访问这些凭据。</block>
+  <block id="6d060bbb2a63ad6b1466ad80fcfc6275" category="doc">技术更新选项</block>
+  <block id="bff48bc8f1cd9f08f36e8d0c4fa810ff" category="paragraph">了解有关的更多信息<block ref="a53ad2061326060987afe3d1fd22d00d" category="inline-link-rx"></block>。</block>
+  <block id="ba568c6eda754bba155b9d0f187ee2cd" category="doc">禁用的功能</block>
+  <block id="fe993a24bb9aca3efb672c108a8c8a76" category="section-title">BlueXP  经济高效简介</block>
 </blocks>
