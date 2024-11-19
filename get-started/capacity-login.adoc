@@ -17,7 +17,7 @@ summary: 通过访问BlueXP中的服务、开始使用BlueXP经济高效。
 要登录到BlueXP、您可以使用NetApp 支持站点 凭据、也可以使用电子邮件和密码注册NetApp云登录。 https://docs.netapp.com/us-en/bluexp-setup-admin/task-logging-in.html["了解有关登录的更多信息"^]。
 
 
-TIP: 您可以通过BlueXP经济效率(*监管*>*经济效率*>*技术更新*)或NetApp数字顾问(*信息板*>*规划小工具*>*技术更新*)访问此功能。
+TIP: 您可以通过BlueXP  经济效率(*监管*>*经济效率*>*技术更新*)或数字顾问(*信息板*>*规划小工具*>*技术更新*)访问此功能。
 
 .步骤
 . 打开Web浏览器并转到 https://console.bluexp.netapp.com/["BlueXP控制台"^]。
